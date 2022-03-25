@@ -52,18 +52,23 @@ def format_quote(q, num, n_quotes):
 def quote(inp, nick='', chan='', db=None, admin=False):
     ".q/.quote [#chan] [nick] [#n]/.quote add|delete <nick> <msg> -- gets " \
         "random or [#n]th quote by <nick> or from <#chan>/adds or deletes " \
-        "quote"
+        "quote, also i'm gay"
 
     db.execute("create table if not exists quote"
                "(chan, nick, add_nick, msg, time real, deleted default 0, "
                "primary key (chan, nick, msg))")
     db.commit()
 
+    search = re.match(r"(search \S+)\s+(\S+)(?:\s+#?(-?\d+))?$", inp)
     add = re.match(r"add[^\w@]+(\S+?)>?\s+(.*)", inp, re.I)
     delete = re.match(r"delete[^\w@]+(\S+?)>?\s+(.*)", inp, re.I)
+    retrieve_search = re.match(r"search[^\w@]+(\S+?)>?\s+(.*)", inp, re.I)
     retrieve = re.match(r"(\S+)(?:\s+#?(-?\d+))?$", inp)
     retrieve_chan = re.match(r"(#\S+)\s+(\S+)(?:\s+#?(-?\d+))?$", inp)
     retrieve_id = re.match(r"(\d+)$", inp)
+  
+    if search:
+        return "im working on it bitch"
 
     if add:
         quoted_nick, msg = add.groups()
@@ -89,6 +94,8 @@ def quote(inp, nick='', chan='', db=None, admin=False):
         select, num = retrieve.groups()
         if select.startswith('#'):
             quotes = get_quotes_by_chan(db, select)
+        elif select.startswith('search'):
+            return "im working on it bitch"
         else:
             quotes = get_quotes_by_nick(db, chan, select)
     elif retrieve_chan:

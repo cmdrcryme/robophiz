@@ -1,0 +1,40 @@
+18:51:56 :logik.ca.us.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+18:51:56 :logik.ca.us.synirc.net 002 robophiz :Your host is logik.ca.us.synirc.net, running version UnrealIRCd-4.2.4.1
+18:51:56 :logik.ca.us.synirc.net 003 robophiz :This server was created Tue Jan 5 2021 at 23:38:51 UTC
+18:51:56 :logik.ca.us.synirc.net 004 robophiz logik.ca.us.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+18:51:56 :logik.ca.us.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+18:51:56 :logik.ca.us.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+18:51:56 :logik.ca.us.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+18:51:56 :logik.ca.us.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+18:51:56 :logik.ca.us.synirc.net 251 robophiz :There are 25 users and 1862 invisible on 15 servers
+18:51:56 :logik.ca.us.synirc.net 252 robophiz 20 :operator(s) online
+18:51:56 :logik.ca.us.synirc.net 254 robophiz 971 :channels formed
+18:51:56 :logik.ca.us.synirc.net 255 robophiz :I have 211 clients and 0 servers
+18:51:56 :logik.ca.us.synirc.net 265 robophiz 211 333 :Current local users 211, max 333
+18:51:56 :logik.ca.us.synirc.net 266 robophiz 1887 8248 :Current global users 1887, max 8248
+18:51:56 :logik.ca.us.synirc.net 375 robophiz :- logik.ca.us.synirc.net Message of the Day - 
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- 22/11/2021 21:24
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- 
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :-                         IIIII RRRRRR   CCCCC
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :-    sss  yy   yy nn nnn   III  RR   RR CC    C
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :-   s     yy   yy nnn  nn  III  RRRRRR  CC
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :-    sss   yyyyyy nn   nn  III  RR  RR  CC    C
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :-       s      yy nn   nn IIIII RR   RR  CCCCC
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :-    sss   yyyyy                 irc.synirc.net
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- 
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- 
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- Welcome to synIRC!
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- 
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- By connecting to synIRC, you agree to abide by the user
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- charter which can be found at https://synirc.net/charter
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- 
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- All servers run proxy scanners. By connecting, you consent
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- to having your IP address scanned for open proxies.
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- 
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- Please join #help if you require network assistance.
+18:51:56 :logik.ca.us.synirc.net 372 robophiz :- 
+18:51:56 :logik.ca.us.synirc.net 376 robophiz :End of /MOTD command.
+18:51:57 :logik.ca.us.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || According to evidence admitted at the board of rights hearing, "Snorlax" is a Pokémon creature known as "The Sleeping Pokémon." || Black lives matter. Pooplunch stands in solidarity with the Black community.
+18:51:57 :logik.ca.us.synirc.net 333 robophiz #phiz shrimp1989dspinfo 1645985449
+18:51:57 :logik.ca.us.synirc.net 353 robophiz @ #phiz :robophiz ajj ajj3 letty lavender_toni Rusty Nude_Riker NORG registered_mirc the`shima the_tasteful_nerd Melber bonegar alansmithee_ dreddybajs greatest_gamer Homie_in_a_geod coaxmetal pubeman77 scoop_jackson eric shrimp1989dspinfo djcozmik ~het kuf 
+18:51:57 :logik.ca.us.synirc.net 366 robophiz #phiz :End of /NAMES list.

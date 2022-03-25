@@ -1,0 +1,1309 @@
+16:35:08 -!- robophiz [~robophiz@B8C50673.F3C7BB78.33CA7D1E.IP] has joined #phiz
+16:35:12 <William_Hootkins> !quote
+16:35:15 <William_Hootkins> !quote 1
+16:35:19 <William_Hootkins> !quote #phiz
+16:35:24 <William_Hootkins> there we go
+16:35:25 <eric> ;)
+16:35:46 <registered_mirc> sick
+16:35:46 <William_Hootkins> i think what happened is i replaced the db file while another was still in memory
+16:35:54 <William_Hootkins> i should have shut the whole shit down first
+16:36:01 <eric> yeah the db connection is probably run once
+16:36:06 <scoop_jackson> .q #phiz pol
+16:36:07 <eric> or occasionally
+16:36:16 <scoop_jackson> !q #Phiz pol
+16:36:16 <registered_mirc> !q #phiz
+16:36:27 <William_Hootkins> !q pol
+16:36:40 <eric> the true beanji
+16:36:41 <scoop_jackson> !q plogo
+16:36:47 <alansmithee_> bonegar i wrecked magrit last night with the jellyfish summon
+16:36:54 <bonegar> solo?
+16:36:56 <alansmithee_> like it almost felt like cheating
+16:36:57 <alansmithee_> yeah
+16:36:58 <bonegar> wait you can summon in the boss fight?
+16:36:59 <eric> the jelly fish ftw
+16:37:00 <bonegar> how
+16:37:02 <eric> yeah
+16:37:05 <bonegar> whaaaaat
+16:37:05 <eric> just like normal
+16:37:10 <William_Hootkins> damn i need some cool summons. also the bell to summon shit
+16:37:11 <William_Hootkins> lol
+16:37:11 <bonegar> i did not know this
+16:37:12 <registered_mirc> bind your summons to the quick menu
+16:37:18 <bonegar> yea i did
+16:37:21 <bonegar> but half the zones are grayed out
+16:37:31 <registered_mirc> you can only summon them for a boss fight i think
+16:37:32 <bonegar> maybe if you have two players you cant do it idk
+16:37:41 <alansmithee_> i looked up how to summon and it said they're supposed to be for boss fights
+16:37:41 <bonegar> no you can summon them on the world map
+16:37:41 <eric> nah u can summon them in dungeons
+16:37:46 <bonegar> i summon the wolfs all the time
+16:37:55 <NORG> good news everyone the no good criterion channel has updated their programming
+16:37:55 <registered_mirc> you can also summon animals if you have an NPC summon in play
+16:37:56 <bonegar> some places you can some you cant, i'm not sure what the rules are
+16:37:57 <alansmithee_> that was the first time i got it to work
+16:38:01 <bonegar> i just assumed boss fights wouldn't let you lol
+16:38:02 <shrimp1989dspinfo> i might try helping with margit because chris and i effortlessly killed him together
+16:38:08 <eric> me neither 
+16:38:14 <bonegar> thinking of the jelly fish sucking on marg is hilarious tho
+16:38:17 <alansmithee_> William_Hootkins: finding the bell was a bit goofy but idk if you want to be spoiled
+16:38:22 <eric> i bet i can do him now but im fighting the boss at the southern castle
+16:38:22 <bonegar> i want to do the fight again just for that alone
+16:38:27 <eric> the southern tip 
+16:38:28 <bonegar> the bell just happens
+16:38:28 <shrimp1989dspinfo> i tried using the jellyfish on him but it didn't do much
+16:38:29 <registered_mirc> you can also level up summons
+16:38:36 <shrimp1989dspinfo> how do you level summons
+16:38:36 <William_Hootkins> i tried to go back to that church but, it didnt trigger a cutscene or anythint
+16:38:38 <bonegar> you can?
+16:38:38 <bonegar> how
+16:38:42 <bonegar> what the..
+16:38:45 <registered_mirc> you have to do a small side quest
+16:38:58 <registered_mirc> you send a girl back to the round table and then do some chatting with her and the blacksmith
+16:38:59 <alansmithee_> the guide i read was that there's something else
+16:39:11 <shrimp1989dspinfo> oh i should find her
+16:39:13 <alansmithee_> if you want i'll just say but idk
+16:39:18 <eric> the cutscene was cool 
+16:39:18 <bonegar> need this explained to me in a christian youth pastor voice 
+16:39:19 <eric> the moon ftw
+16:39:23 <William_Hootkins> NORG: i wish the "leaving at the end of the month" thing wasnt at the bottom
+16:39:31 <William_Hootkins> that u have to scroll and load 6000 times
+16:39:33 <William_Hootkins> to get to
+16:39:37 <bonegar> there's a girl?
+16:39:40 <bonegar> did i kill her?
+16:39:41 <bonegar> idk
+16:39:44 <alansmithee_> but yeah idk if the jellyfish even did that much damage, just having something to divert his attention a bit helped a ton
+16:39:52 <alansmithee_> i think i only used like two flask charges if that
+16:39:54 <eric> ive chatted to many girls in the world between the fog or whatever
+16:39:57 <bonegar> i like the wolves a lot because they look cool
+16:39:59 <eric> and they are all over me let me tell you
+16:40:09 <NORG> same will
+16:40:16 <bonegar> wondering if i killed the girls or not
+16:40:29 <registered_mirc> "spirit ashes" if you want to google
+16:40:37 <bonegar> i also like the gemstone sorceror summon who wears the beard guy mask
+16:40:49 <eric> i dont have enough magic points to summon that guy
+16:41:01 <eric> oh wait maybe i do maybe its the wolves i dont have neough for
+16:41:02 <bonegar> yah i could google a lot of this but it's kinda more fun to figure this out through passive conversation and clues in the game
+16:41:04 <registered_mirc> i have a summon that's two skeletons
+16:41:07 <registered_mirc> it's bad ass
+16:41:12 <alansmithee_> i've only used the jellyfish, and just the once. i got the wolves and i also got something for killing some boat guy
+16:41:22 <bonegar> mr god damn two skeletons over here
+16:41:28 <bonegar> so damn cool
+16:41:30 <bonegar> this game is so cool
+16:41:37 <registered_mirc> yeah it is lol
+16:41:37 <eric> yeah its fun
+16:41:50 <registered_mirc> they did a great job adapting the souls formula to open world
+16:41:53 <William_Hootkins> damn all the mank is leaving the channel this month
+16:41:58 <William_Hootkins> gotta watch some mank
+16:42:03 <bonegar> yeah, and it's genuinely wild to hear about how different everyone's builds are
+16:42:04 <registered_mirc> and you still get classic souls vibes like in stormveil castle
+16:42:21 <alansmithee_> also i ran into some thing that looked like tangela only instead of being a cute pokemon it was a hellish abomination and maybe the grossest thing i've seen
+16:42:27 <bonegar> yea the game definitely has points where it narrows down to more trad souls stuff
+16:42:35 <bonegar> the adventurer's guide is actually really cool to look at too
+16:42:38 <alansmithee_> it wasn't even a boss just some nasty looking thing in a swamp
+16:42:44 <bonegar> feels like a really cool video game manual
+16:42:46 <registered_mirc> ive been dying to look at that but ive been too busy playing
+16:42:49 <William_Hootkins> i got owned by land octopus
+16:42:55 <registered_mirc> that is so awesome they included it
+16:42:56 <bonegar> it's just some big splash pictures and explinations
+16:43:05 <registered_mirc> i want a hard copy of the adventurer's guide very badly
+16:43:09 <bonegar> reminds me of when you could buy physical media and it would come with an insert with cool pics
+16:43:23 <alansmithee_> i also picked up some claws and i may try those cause that seems cool even tho i have a feeling they'd suck for me currently
+16:43:30 <registered_mirc> i bought the prima games witcher 3 book and its huge and awesome but i would really like one for elden ring
+16:43:32 <bonegar> i got some of those claws they look s o cool
+16:43:40 <William_Hootkins> what class are you alan
+16:43:42 <bonegar> my guy looks cool as heck right now lemme take a pic
+16:43:45 <alansmithee_> confessor
+16:43:53 <bonegar> i wonder if class effects the drops you get
+16:44:14 <registered_mirc> i still haven't found good armor that i like
+16:44:20 <scoop_jackson> Who are the astrologers itc
+16:44:21 <eric> lol the new pup sons video was directed by jeff dutton
+16:44:26 <eric> and has mitch in it
+16:44:38 <William_Hootkins> nice
+16:44:38 <William_Hootkins> hahaha
+16:44:39 <eric> me neither mpg
+16:44:39 <alansmithee_> i actually put on just cloth robes cause the heavy ass sword weighed me down
+16:44:44 <alansmithee_> think i like quicker builds 
+16:44:48 <alansmithee_> gotta be able to move
+16:44:50 <bonegar> gonna take a pic of my guy to show you my cool guy hold on
+16:44:57 <eric> https://www.youtube.com/watch?v=-zXiLs9zKMs
+16:44:59 <William_Hootkins> yeah i was quick at first cause im bandit
+16:45:10 <bonegar> bandit was my fav ds1 class
+16:45:47 <eric> bandit ftw
+16:46:28 <bonegar> the gray hairs come with my cool helmet, so it's like a big head dress with a cool wyvern thing on it 
+16:46:28 <bonegar> https://i.imgur.com/0RZDfTd.png
+16:46:35 <registered_mirc> i started as dex/int prisoner but i'm levelling str
+16:46:41 <registered_mirc> big sword + spells
+16:46:52 <registered_mirc> and enough dex to use a bow
+16:47:03 <William_Hootkins> i've added a couple points of str just to have weapon options
+16:47:05 <bonegar> i started prophet and i have the most even basic bitch stats atm, but i am absolutely ready to go online once i get one more into int
+16:47:08 <William_Hootkins> i need some more arrows
+16:47:11 <bonegar> i will start dumping into end,str,mind
+16:47:17 <registered_mirc> crafting arrows is pretty sweet
+16:47:17 <William_Hootkins> annoying that i've picked up like 50 bolts but no fuckin arrows
+16:47:22 <eric> do u have the crafting kit
+16:47:24 <registered_mirc> i like it a lot better than buying arrows
+16:47:30 <William_Hootkins> wheres crafting's kit. lol
+16:47:32 <bonegar> i feel bad about killing a lot of the animals
+16:47:36 <bonegar> unless they attack me
+16:47:37 <eric> youi buy it from the first shop guiy
+16:47:41 <alansmithee_> you buy it from some shop guy
+16:47:43 <registered_mirc> crafting kit is at the first church
+16:47:45 <William_Hootkins> hm. i must have missed that
+16:47:46 <bonegar> i never kill the eagles or any animal that doesn't attack me
+16:47:52 <alansmithee_> yeah neither do i
+16:47:56 <registered_mirc> never
+16:48:03 <registered_mirc> i killed a boar that came at me
+16:48:04 <alansmithee_> except dragonflies cause they'll turn on you 
+16:48:07 <registered_mirc> little prick
+16:48:24 <William_Hootkins> yeah the boars are asshoals
+16:48:27 <registered_mirc> i did not deserve his ire and he came at me anyway
+16:48:28 <alansmithee_> also is there anything special for killing one of the megabears?
+16:48:48 <registered_mirc> not afaik but ive only killed one that was a cave boss
+16:48:51 <alansmithee_> i got led to one, hit it once for like zero damage and just horsed away
+16:48:53 <registered_mirc> they are some mother fuckers
+16:48:57 <bonegar> yea i killed the cave boss one
+16:49:04 <alansmithee_> oh i didn't see that one
+16:49:08 <registered_mirc> summoning the wolves helped a lot
+16:49:14 <bonegar> the regular bears are easy enough to kill, they used to scare me at first until i stabbed one with my spear
+16:49:15 <eric> the only bear i have encountered was a weird trick on a cliff side
+16:49:15 <registered_mirc> otherwise it just freaks out
+16:49:16 <bonegar> and it was like oh
+16:49:21 <William_Hootkins> [cake boss voice] you cant kill me, i'm the cave boss
+16:49:22 <bonegar> ok i can kill bears problemlessly if i need to
+16:49:34 <registered_mirc> i wonder if i can now
+16:49:39 <registered_mirc> they are scary
+16:49:46 <eric> try stabbing
+16:50:00 <alansmithee_> actually now tha ti got a summon i gotta go handle another boss i skipped
+16:50:16 <alansmithee_> my confidence with a jellyfish is overwhelming!
+16:50:24 <eric> yeah !
+16:50:42 <William_Hootkins> i need to get summons bell and crafting's kit it seems
+16:52:23 <shrimp1989dspinfo> i need whatever crafting instructions give you poison antidote
+16:52:51 <registered_mirc> lol https://www.newyorker.com/culture/persons-of-interest/hidetaka-miyazaki-sees-death-as-a-feature-not-a-bug
+16:52:52 <alansmithee_> is there a stat that raises your carrying weight? i would've assumed str but idk
+16:53:03 <registered_mirc> new yorker elden ring piece
+16:53:06 <alansmithee_> like the weight that determines if you have heavy or med or light load? 
+16:53:15 <eric> sounds like sopmething i dont watnt to read
+16:53:27 <registered_mirc> im not reading it either
+16:53:32 <registered_mirc> just marveling that it exists
+16:54:19 <eric> elden ring still 3rd most played game on steam
+16:54:36 <alansmithee_> behind dota 2 and what else? csgo? 
+16:54:42 <William_Hootkins> ok while im at the first merchant guy is there anything else i should buy from him
+16:54:42 <eric> dota 2 is 4th
+16:54:49 <alansmithee_> oh dang
+16:54:49 <eric> lost ark and csgo are 1 and 2
+16:55:01 <eric> ive never even heard of lost ark lol
+16:55:02 <alansmithee_> i didn't know lost ark was that popular
+16:55:08 <William_Hootkins> well its new and free
+16:55:09 <alansmithee_> it's a ftp mmo i think
+16:55:11 <William_Hootkins> so that helps
+16:55:17 <alansmithee_> from amazon
+16:55:20 <William_Hootkins> itll fall off
+16:57:12 <eric> i remember being a kid and going down the list of ftp mmos on mmorpg.com or whatever
+16:57:16 <bonegar> elden ring can run smoothly on 10 year old PCs whih rules
+16:57:18 <eric> and just picking one out bc i was bored
+16:57:30 <eric> yeah if you dump the settings down it runs great
+16:57:39 <bonegar> i have it on high and NP from me
+16:57:45 <bonegar> and i only have a 1070
+16:58:10 <eric> i wass  getting decent fps but i dropped it down a bit anyway
+16:58:20 <eric> still have some minor stuttering i think when stuff is streamed in
+16:58:25 <bonegar> i'm not too sensitive to that stuff unless it is really bad
+16:58:32 <eric> yeah its nbd
+16:59:10 <ajj> lost ark was also getting pushed heavy on twitch, i saw people playing it on twitch with 150,000 viewers on stream
+16:59:12 <William_Hootkins> lol well the good thing about not having the crafting kit for a long time
+16:59:23 <William_Hootkins> is that i have a shitload of mats
+16:59:24 <bonegar> yea but.. lol if you're playing lost ark
+16:59:24 <alansmithee_> yeah a lot of big streamers are playing it
+16:59:46 <bonegar> amazon owns lost ark, amazon owns twitch, i'm sure a lot of the goofy money-streamers love it
+16:59:51 <ajj> ive already had my fill of korean ftp mmos
+16:59:59 <bonegar> yea that style/genre is exhausted
+17:00:01 <eric> yeah
+17:00:07 <William_Hootkins> this is like the 3rd crucial game mechanic that i've just Assumed comes later in the game
+17:00:17 <William_Hootkins> when it was available almost from the jump
+17:00:19 <bonegar> i still havent found the sewing kit
+17:00:32 <William_Hootkins> the sewing kit is in the tunnel that connects the beach to the island
+17:00:35 <bonegar> yea, classic FROM soft design, missing absolutely CORE shit
+17:00:42 <eric> dont need it
+17:00:44 <bonegar> love those guys
+17:00:45 <William_Hootkins> near the opening area
+17:00:45 <ajj> the sewing kit / tailoring tools just change the appearnece of armor
+17:00:52 <bonegar> i need this more than ANYTHING
+17:00:53 <bonegar> fuck
+17:01:01 <bonegar> going on an EPIC quest to get this shit
+17:01:28 <bonegar> it's so sick to see kingsfield 1 and 2 stuff in elden ring though
+17:01:37 <bonegar> way more transparent than the souls series too
+17:02:00 <bonegar> it takes a real sicko to play those though
+17:02:12 <William_Hootkins> yeah
+17:02:15 <William_Hootkins> real benji hours
+17:02:32 <eric> tyhose games are cool
+17:02:39 <eric> they look cool imo
+17:02:47 <bonegar> im very glad i played through them before release of elden ring
+17:02:51 <bonegar> 2 though, i didn't complete
+17:02:58 <bonegar> 1 is arguably 'playable'
+17:03:02 <eric> the npc models and mobs are cool looking
+17:03:03 <ajj> did you ever play lost kingdoms
+17:03:26 <bonegar> ajj no
+17:03:34 <bonegar> is it game cube exclusive?
+17:03:36 <ajj> ya
+17:03:42 <ajj> im playin it on dolphin
+17:03:47 <bonegar> oh wow i had no idea there was a kings field 3 and 4 either
+17:03:47 <bonegar> lol
+17:03:49 <bonegar> dope
+17:03:53 <ajj> oh really lol
+17:03:54 <bonegar> you ever stream it?
+17:03:56 <bonegar> yea
+17:04:01 <ajj> kf3 and 4 are much more accessible from what ive seen
+17:04:05 <bonegar> lmao
+17:04:05 <ajj> i watche someone do a playthrough of kf4
+17:04:15 <bonegar> i had no idea they existed
+17:04:30 <bonegar> me, playing the worst dumbest ones that look so cool low poly 256fes
+17:04:33 <ajj> rofl
+17:04:42 <ajj> they look awesome, you can see a ton of proto dark souls stuff in 4
+17:04:49 <William_Hootkins> hm i guess ill get a wolfram alpha api key too
+17:22:17 -!- robophiz [~robophiz@B8C50673.F3C7BB78.33CA7D1E.IP] has joined #phiz
+17:22:25 <William_Hootkins> I was running python from root
+17:22:33 <shrimp1989dspinfo> he worked with nuclear weapons as well
+17:22:33 <William_Hootkins> !q #phiz
+17:22:36 <William_Hootkins> there we go
+17:22:37 <Rusty> lol
+17:22:44 <William_Hootkins> can u re-add that quote bonegar 
+17:23:09 <William_Hootkins> note to self, run python from bot directory and not root directory
+17:23:11 <bonegar> !quote add shrimp <shrimp1989dspinfo> there's a new 9/11 video
+17:23:27 <shrimp1989dspinfo> lmao
+17:23:31 <William_Hootkins> theres a couple quotes that got added to the temp db that i need to migrate somehow
+17:23:43 <bonegar> !q #phiz
+17:23:46 <bonegar> lmfao
+17:23:47 <William_Hootkins> lmao
+17:24:03 <Rusty> I posted this video in the 2000's but accidently left it private for until now. I gave a Sunday Service on a scout trip to Shiloh battlefield about one of my religious journeys and showed this video (stop before swearing)
+17:24:14 <bonegar> lol
+17:24:28 <shrimp1989dspinfo> yeah i was about to copy/paste that
+17:24:36 <bonegar> americans remembering 9/11, somehow invading afganistan instead of saudi arabia
+17:24:38 <shrimp1989dspinfo> i'm laughing at "accidentally left it private"
+17:24:42 <shrimp1989dspinfo> uhuh. accidentally
+17:24:48 <bonegar> 20 year war until the new war
+17:24:48 <registered_mirc> lmfao
+17:24:49 <registered_mirc> Dude drops this the same day that ww3 starts, then uploads a video called "Horned Owl" not only a military spy drone project but an occult symbol. Knows how to skip the algorithm in both title and audio... yeah, not questionable at all.
+17:24:49 <registered_mirc> "Weaving spiders come not here" huh, kevin?
+17:25:00 <Rusty> trying to think of a Snyder Cut joke for this footage but i'm too tired
+17:25:01 <shrimp1989dspinfo> this is 100% a psyop
+17:25:05 <bonegar> no question
+17:25:14 <registered_mirc> not going to pretend like i know that
+17:25:15 <shrimp1989dspinfo> but i am thankful for the new 9/11 footage
+17:25:23 <registered_mirc> but its fun to guess
+17:25:26 <Rusty> it's like when they release new stuff from Prince's vault
+17:25:28 <bonegar> i dunno if it is real or not, but 9/11 is really funny
+17:25:28 <Rusty> we take what we can get
+17:25:47 <shrimp1989dspinfo> 9/11 alive in serbia
+17:25:53 <registered_mirc> the only thing i give a shit about is stuff i know
+17:25:55 <bonegar> like many people 9/11 is a safe place to go to laugh
+17:25:57 <registered_mirc> such as: elden ring
+17:26:04 <shrimp1989dspinfo> it's a really sick vid
+17:26:05 <Rusty> the title can be read in a way that makes it seem like his nickname is 9/11 Kevin
+17:26:07 <Rusty> (get your adverbs here)
+17:26:13 <bonegar> lmao
+17:26:15 <shrimp1989dspinfo> are there any other vids of 9/11 that are so clear
+17:26:29 <shrimp1989dspinfo> 9/11 kevin is a GREAT nickname
+17:26:29 <bonegar> 'it's me, kevin, you know, kevin, 9/11 kevin?'
+17:26:42 <Rusty> 9/11 Kevin on the track
+17:26:50 <registered_mirc> we need to talk about 9/11
+17:26:55 <shrimp1989dspinfo> lmao
+17:26:56 <Rusty> ^
+17:27:01 <registered_mirc> acutally this seems like a good time for
+17:27:10 <registered_mirc> !y martin noakes building 7
+17:27:17 <bonegar> !q #phiz 9/11
+17:27:21 <bonegar> !q #phiz 9-11
+17:27:23 <bonegar> !q #phiz 911
+17:27:31 <bonegar> !q #phiz 9 11
+17:27:38 <registered_mirc> if i had nothing better to do with my time i would love to go around triggering conspiracy brains
+17:28:14 <bonegar> what do you mean?
+17:28:29 <Rusty> Nongshim SOON Veggie noodle soup ftw
+17:28:31 <shrimp1989dspinfo> making connections is cool
+17:28:33 <registered_mirc> just posting occult symbols in places where people react to that sort of thing
+17:28:40 <registered_mirc> whip up some fervor
+17:28:45 <bonegar> oh, well, i think you can just find real actual conspiracies to joke about
+17:28:51 <shrimp1989dspinfo> yeah
+17:28:57 <registered_mirc> they're all a joke to me
+17:28:57 <William_Hootkins> quote search isn't going to work rn
+17:29:04 <registered_mirc> one is as good as another
+17:29:05 <shrimp1989dspinfo> i tihnk all the weird occult stuff is just to distract from real actual conspiracies
+17:29:10 <bonegar> yea, but the jokes that trick people into believing wrong things even more are kinda sad
+17:29:15 <William_Hootkins> quote search isn't going to work rn
+17:29:19 <William_Hootkins> thats something alex added
+17:29:24 <registered_mirc> yeah you're right
+17:29:30 <registered_mirc> but i didn't actually do anything so
+17:29:34 <registered_mirc> not accountable
+17:29:36 <William_Hootkins> and i am not a python or regexp expert
+17:29:45 <bonegar> i cant count dont worry
+17:29:46 <William_Hootkins> so that bit might take me a while
+17:29:49 <registered_mirc> lol
+17:30:03 <shrimp1989dspinfo> the occult stuff can be fun to read about but it's definitely a very useful trick
+17:30:17 <Rusty> yakult symbols
+17:30:22 <bonegar> occult stuff is fun
+17:30:43 <bonegar> but a lot of it is england guys unironically worshiping satan
+17:30:56 <registered_mirc> i love occult symbols and occult stuff
+17:31:03 <William_Hootkins> !q #phiz
+17:31:03 <bonegar> yea it's part of human history
+17:31:13 <registered_mirc> worshipping satan is just as valid as worshipping jesus tho
+17:31:42 <William_Hootkins> i worship the almighty dollar like a good American
+17:32:05 <bonegar> hildegard of bingen brain
+17:32:16 <Rusty> !gis metropolis moloch gif
+17:32:21 <alansmithee_> registered_mirc: idk if i would agree with that
+17:32:23 <bonegar> buddy if i could worship the dollar my life would be golden
+17:32:28 <shrimp1989dspinfo> it's probably not good to worship evil things
+17:32:34 <bonegar> but i fell into the jesus trap and now i just hate god damn dollars
+17:32:47 <alansmithee_> but i'm a fan of the occult. i've thought of getting a ton of demonology books like keys of solomon and stuff
+17:33:00 <registered_mirc> the whole concept of good and evil like maybe a few thousand years old
+17:33:01 <Rusty> "solomon no kagi"
+17:33:01 <shrimp1989dspinfo> my roommate has a lot of books about hte occult
+17:33:09 <alansmithee_> i used to read all sorts of that stuff when i was younger, occult and paranormal shit. crypids and ufos and cults and stuff
+17:33:11 <bonegar> i read some like alister crowley stuff and i just got very mad at England guy bullshit
+17:33:25 <William_Hootkins> way behind on my steps today
+17:33:25 <shrimp1989dspinfo> yeah he likes all that alansmithee_
+17:33:31 <William_Hootkins> curse u elden ring
+17:33:33 <shrimp1989dspinfo> big fan of aliens 
+17:33:38 <Rusty> one time i reach a bit too much of some guy's Enochian(? or something) book where he did specific rituals and talked to angels
+17:33:40 <alansmithee_> i read a story by crowley in an anthology i had and it was actually pretty good for what it was, although it was kinda depressing as hell
+17:33:45 <bonegar> me, a genius, went on a hike early in the AM >:D
+17:34:18 <bonegar> he's so clearly a scammer alan, especially if you just read his stuff
+17:34:29 <Rusty> and way back in church days i read A DIVINE REVELATION OF HELL/HEAVEN where a lady describes how God gave her tours of each
+17:34:33 <bonegar> but like any scammer, it's interesting to see what he's promising and stealing from
+17:34:52 <William_Hootkins> !l
+17:34:52 <bonegar> like i think meditation and yoga to do more comfortable meditation is a very real thing
+17:35:07 <William_Hootkins> !l cryme
+17:35:10 <bonegar> so he latches onto that, but clearly wants to build a cult of personality around himself which is just... very lame
+17:35:14 <alansmithee_> bonegar: i don't doubt it,, but this was just a horror story
+17:35:24 <bonegar> irl is a horror story
+17:35:32 <alansmithee_> now anton levay, HE'S the real deal!
+17:35:36 <shrimp1989dspinfo> rofl
+17:35:46 <registered_mirc> anton lavey is funny
+17:35:53 <registered_mirc> !y anton la vey and his calliope
+17:35:56 <registered_mirc> ^
+17:36:02 <William_Hootkins> bonegar: i had a child to take to daycare
+17:36:08 <alansmithee_> he's basically an occult version of an ancap
+17:36:09 <William_Hootkins> and also it was cold af
+17:36:13 <alansmithee_> which is funny af
+17:36:26 <William_Hootkins> getting warmer now though
+17:36:33 <bonegar> terrifying
+17:37:13 <Nude_Riker> i have procured the rotisserie chicken
+17:37:16 <Nude_Riker> its keto time
+17:37:21 <Rusty> occult version of ascap
+17:37:33 <bonegar> i want to be 1000x nicer to anyone who has a child, but i get furious when people expect me to capitulate because they have a child
+17:37:43 <William_Hootkins> anton le gay
+17:37:47 <shrimp1989dspinfo> ^
+17:37:50 <shrimp1989dspinfo> i don't know anyone with kids
+17:37:53 <shrimp1989dspinfo> i guess i know one now
+17:37:55 <William_Hootkins> im just saying morning hike is deffo the wayto go
+17:37:59 <William_Hootkins> but not an option for myself
+17:38:06 <bonegar> yah
+17:38:09 <William_Hootkins> i usually take like a mile walk around 7pm
+17:38:09 <Nude_Riker> morning hike is nice but not when its cold as shit
+17:38:12 <William_Hootkins> if im getting behind
+17:38:19 <bonegar> i got ya
+17:38:49 <William_Hootkins> i did not make it to 10500 steps yesterday but yesterday was also deadlift day
+17:38:59 <William_Hootkins> and i just did not want to make my legs go anymore
+17:39:01 <William_Hootkins> by like 8pm
+17:39:02 <shrimp1989dspinfo> wait
+17:39:05 <shrimp1989dspinfo> i just realized
+17:39:14 <bonegar> i did cold hikes, and my opinion is officially: anythign below 32 with wind is bullshit
+17:39:19 <shrimp1989dspinfo> 9/11 kevin put a harry potter quote in his 9/11 video description
+17:39:20 <shrimp1989dspinfo> lmfao
+17:39:21 <William_Hootkins> yeah that sucks dick
+17:39:26 <Rusty> mischief managed
+17:39:38 <William_Hootkins> if u got decent gloves 32 is like the edge of whats acceptable
+17:39:44 <William_Hootkins> but if there's any wind its horrible
+17:39:48 <bonegar> but i can handle below 32 no prob if there is no wind and snow as insulation
+17:40:00 <ajj> the windchill is the worst
+17:40:07 <shrimp1989dspinfo> 32 is too cold
+17:40:14 <shrimp1989dspinfo> i can't go outside until it's like 55 degrees
+17:40:21 <ajj> in nebraska its always like the temperature is 30 degrees with a windchill of -11
+17:40:37 <bonegar> the wind can get crazy here
+17:40:44 <bonegar> but there's more sky than land here 
+17:40:47 <bonegar> so i can't get mad
+17:41:10 <bonegar> i also just... like wind as an idea
+17:41:22 <shrimp1989dspinfo> happy march everyone
+17:41:27 <shrimp1989dspinfo> soon it will be warm enough to go outside
+17:41:30 <registered_mirc> smarch
+17:41:33 <bonegar> but definitely when you get into water freezes territory it affects the human nature with all our water in us
+17:41:48 <bonegar> it's insanely nice out
+17:41:56 <shrimp1989dspinfo> jealous
+17:42:00 <registered_mirc> its so nice out that im going to play elden ring
+17:42:01 <shrimp1989dspinfo> i want to go look at fish
+17:42:02 <William_Hootkins> its getting nicer but the winds still a bit cold
+17:42:05 <bonegar> like 70, i went for a hike in the am cuz 70 is 'too warm' for march
+17:42:06 <bonegar> lmao
+17:42:30 <bonegar> yah also i wanna play elden ring
+17:42:39 <shrimp1989dspinfo> i explored a little more this morning
+17:42:42 <alansmithee_> is there a good way to clean a laptop keyboard? some of my keys seem to stick or not register at times
+17:42:46 <shrimp1989dspinfo> i'm gonna hop back in after my roommate goes back to work
+17:42:56 <shrimp1989dspinfo> we've been watching 9/11 videos
+17:42:57 <alansmithee_> and yeah i'm gonna hop on elden ring soon too
+17:42:57 <bonegar> depends on the laptop i guess
+17:42:58 <NORG> https://twitter.com/cokeandaSlice/status/1498388598097334276?
+17:43:07 <bonegar> they all have weird keys
+17:43:08 <alansmithee_> lol
+17:43:12 <registered_mirc> im getting a strong urge to disconnect from everything now that i have a thing to immerse myself in
+17:43:17 <William_Hootkins> lol norg
+17:43:26 <shrimp1989dspinfo> what about your friends here in irc
+17:43:27 <alansmithee_> fuck the tree sentinel i should go back and try to own that dude now
+17:43:35 <bonegar> who is the tree sentinel?
+17:43:42 <bonegar> oh that guy at the beginning i ignored on the horse?
+17:43:43 <alansmithee_> if i can summon my jellyfish i should be able to handle him
+17:43:43 <shrimp1989dspinfo> i think i might go get him this afternoon
+17:43:44 <William_Hootkins> its the tree guy right outside the opening
+17:43:45 <William_Hootkins> yeah
+17:43:46 <bonegar> lol
+17:43:47 <shrimp1989dspinfo> yeah the big horse guy
+17:43:48 <registered_mirc> the urge is strong regardless of my friends unfortunately
+17:43:51 <bonegar> yea i just walked RIGHT by him 
+17:43:52 <bonegar> namaste 
+17:44:07 <shrimp1989dspinfo> i'm like lv 32 now
+17:44:11 <shrimp1989dspinfo> i sohuld be able to get him i think
+17:44:12 <shrimp1989dspinfo> right??
+17:44:19 <registered_mirc> i love that from put a lynel like right at the beginning of the game
+17:44:22 <shrimp1989dspinfo> rofl
+17:44:26 <shrimp1989dspinfo> i need more smithing stones again
+17:44:30 <bonegar> shrimp can i help kill him w/ you in your game
+17:44:35 <shrimp1989dspinfo> i found another cavern but it wa sfull of level 4 smithing stones
+17:44:40 <shrimp1989dspinfo> oh yeah sure
+17:44:45 <shrimp1989dspinfo> i'll let you know when i'm on
+17:44:54 <bonegar> just name the grace
+17:44:57 <bonegar> i'll be there >:D
+17:45:33 <shrimp1989dspinfo> you just need to place your summon nearby, right?
+17:45:44 <shrimp1989dspinfo> put it in the church near the grace
+17:45:51 <shrimp1989dspinfo> password is in topic
+17:45:55 <shrimp1989dspinfo> eldphiz
+17:45:55 <alansmithee_> does this have crossplay? 
+17:46:06 <bonegar> yea i guess we might need to pick a password if we have trouble
+17:46:10 <William_Hootkins> nope
+17:46:16 <bonegar> sadly no
+17:46:18 <William_Hootkins> i think im the only ps5 ring adventurer
+17:46:23 <bonegar> but you got other ps5 homies in here
+17:46:23 <alansmithee_> dang :/ who on ps5?
+17:46:30 <William_Hootkins> only other*
+17:46:30 <Rusty> i got one but i'm hesitating on elden rang
+17:46:56 <shrimp1989dspinfo> Rusty give your ps5 to mason if you're not gonna play
+17:46:58 <shrimp1989dspinfo> he's suffering
+17:47:06 <shrimp1989dspinfo> he refuses to look at chat because all we do is talk about this game
+17:47:18 <bonegar> this is mason's punishment for downtalking me on buying a proper cpu
+17:47:22 <registered_mirc> i thought he had a good pc
+17:47:25 <bonegar> he knows what he did
+17:47:33 <shrimp1989dspinfo> i think it would take him at least a week to download it
+17:47:35 <bonegar> he underbuilds pcs like a pervert
+17:47:39 <shrimp1989dspinfo> he has a 970
+17:47:59 <registered_mirc> o
+17:48:01 <registered_mirc> rip
+17:48:31 <NORG> Lets beat his ass
+17:48:35 <shrimp1989dspinfo> ok
+17:48:55 <shrimp1989dspinfo> what the fuck
+17:49:16 <shrimp1989dspinfo> i just looked out the window and a box truck drove by with sometihng on the side that said "i love tracking my money with spreadsheets"
+17:49:24 <Nude_Riker> lol
+17:49:28 <bonegar> lol
+17:49:40 <Rusty> damn. same
+17:49:42 <Nude_Riker> im drinking a rockstar even though it might ruin my day
+17:49:45 -!- letty [~letty@synIRC-77688CA5.dyn.plus.net] has joined #phiz
+17:50:15 <shrimp1989dspinfo> party like a rockstar
+17:50:20 <bonegar> what if you just laid devistation to your day
+17:51:35 <William_Hootkins> !g price nvidia gts8800
+17:52:38 <NORG> arent graphics cards in stock like crazy now
+17:52:40 <NORG> cause of the War
+17:53:45 <shrimp1989dspinfo> wtf are they
+17:53:48 <Nude_Riker> nvidia got epically haxored due to war
+17:53:56 <shrimp1989dspinfo> should i have waited literally 2 weeks to get a card at a normal price
+17:54:04 <pubeman77> lol
+17:54:12 <pubeman77> thats the way the cookie crumbles
+17:54:23 <shrimp1989dspinfo> i'm going to kill myself
+17:54:27 <ehn> me 2
+17:54:39 <ehn> see u in heaven
+17:54:45 <bonegar> i feel like a lot of things about how my parents behaved are being put in perspective due to this new cold war
+17:55:15 <letty> how u mean
+17:55:29 <shrimp1989dspinfo> sounds good ehn
+17:55:39 <shrimp1989dspinfo> bonegar i'm about to enter the gamer zone
+17:55:46 <bonegar> the idea of nationalities being cyclical manifestions of human nature 
+17:55:54 <shrimp1989dspinfo> i hope tree sentinel responds to fireballs because i don't have much of a strat beyond thay
+17:56:03 <bonegar> oh hell ya
+17:56:09 <bonegar> tell me what grace to meet u at
+17:56:17 <shrimp1989dspinfo> i'm getting a touch of the Gamer's Arm again
+17:56:22 <shrimp1989dspinfo> but in my left arm this time
+17:56:22 <bonegar> we'll give it a go
+17:56:40 <pubeman77> when are new iphones coming out
+17:56:55 <letty> ahh i see bonegar
+17:57:14 <pubeman77> trying to decide if i should wait
+17:57:17 <bonegar> ...you do?
+17:58:35 <William_Hootkins> usually october
+17:58:42 <William_Hootkins> announced sept rlsed end of oct
+17:58:47 <bonegar> yea whenever their apple whatever thing is
+17:58:55 <bonegar> their yearly wwcdcwwcwwdcw
+17:59:27 <letty> not really
+18:00:13 <bonegar> lyin letty smdh
+18:00:14 <William_Hootkins> i feel like unless ur shits fucked up better to wait
+18:00:27 <William_Hootkins> even if u wanna get last years model itll be cheaper
+18:01:06 <Homie_in_a_geod> hows this deck look dreddybajs https://www.mtggoldfish.com/deck/4647812#paper
+18:01:39 <pubeman77> i really wish they made smaller phones other than SE
+18:01:55 <shrimp1989dspinfo> ok bonegar church of elleh
+18:02:04 <William_Hootkins> the regular size one isnt rly that big 
+18:02:12 <bonegar> ok i'll tell you where i put my sign
+18:02:13 <William_Hootkins> they made the screen bigger but the overall thing isnt much larger
+18:02:19 <bonegar> if you cant find it we can do the password thingie
+18:03:17 <Homie_in_a_geod> i need to playtest this in tts
+18:03:58 <bonegar> ok i put my sign behind the church wall, directly behind the merchant, by the broken pillar
+18:04:06 <bonegar> so behind the curch of elleh
+18:04:47 <bonegar> if you cant find it we can just add a password w/e you pick
+18:04:49 <letty> my sister is called elleh
+18:04:54 <letty> but its ellie
+18:05:21 <bonegar> we're on the quest for the elden ring
+18:05:36 <shrimp1989dspinfo> can you take a screenshot
+18:05:52 <shrimp1989dspinfo> idk what the range of this summoning item is
+18:06:41 <bonegar> this is a genius picture riddle but you will understand instantly https://i.imgur.com/8Dr6A7W.jpg
+18:06:57 <shrimp1989dspinfo> ah that's where i thought
+18:07:18 <shrimp1989dspinfo> summoning
+18:07:34 <shrimp1989dspinfo> cool outfit
+18:08:48 <Nude_Riker> https://twitter.com/beebee880/status/94700568404168704
+18:08:50 <Nude_Riker> beebee ftw
+18:08:54 <William_Hootkins> lmao
+18:09:16 <Nude_Riker> it took me a minute to find that i thought it got deleted, all the typos made it hard lol
+18:10:02 <shrimp1989dspinfo> rofl
+18:10:04 <shrimp1989dspinfo> i'm so bad at this
+18:10:11 <bonegar> aaaa
+18:10:12 <bonegar> dont worry
+18:10:17 <bonegar> just try to stay alive at all costs
+18:10:26 <shrimp1989dspinfo> yeah sec let me get my runes back
+18:10:46 <bonegar> seems doable though
+18:10:57 <alansmithee_> what you two working on? 
+18:11:11 <bonegar> tree sentinel
+18:11:15 <alansmithee_> sweet
+18:11:41 <shrimp1989dspinfo> ok summoning again
+18:13:03 <shrimp1989dspinfo> lmao
+18:13:07 <shrimp1989dspinfo> i think i need better eq
+18:13:16 <bonegar> do you wanna farm some giants instead or something
+18:13:43 <shrimp1989dspinfo> are they those big scary guys
+18:13:46 <shrimp1989dspinfo> how hard are they to kill
+18:13:58 <bonegar> easy w/ 2 hard with 1
+18:14:08 <shrimp1989dspinfo> ok, where should you drop in for that
+18:14:15 <Homie_in_a_geod> an angle with golden arcers
+18:14:37 <bonegar> hrmm stormhill shack i think
+18:14:57 <shrimp1989dspinfo> kk, let me know where you put your sign down
+18:14:59 <shrimp1989dspinfo> i'm at the grace
+18:15:03 <bonegar> sign on the back porch of the house
+18:15:15 <scoop_jackson> 100% pubeman77
+18:15:54 <shrimp1989dspinfo> summoning
+18:16:11 <shrimp1989dspinfo> i forgot to get my runes
+18:16:15 <shrimp1989dspinfo> w/e it's not a big deal
+18:16:41 <bonegar> i dont quite remember where they are
+18:18:18 <bonegar> aaa
+18:18:20 <bonegar> disconnected
+18:19:47 <shrimp1989dspinfo> it's ok
+18:19:50 <shrimp1989dspinfo> i killed the big octopus
+18:19:58 <shrimp1989dspinfo> i'm back at the shack now i'll bring you back
+18:20:07 <bonegar> nice!
+18:20:19 <bonegar> yah figured we could take that
+18:21:00 <shrimp1989dspinfo> there are two giants there
+18:21:06 <bonegar> yea
+18:21:09 <bonegar> we can kill them
+18:23:01 <shrimp1989dspinfo> lmao
+18:23:08 <bonegar> nooo
+18:23:09 <bonegar> sry
+18:23:14 <shrimp1989dspinfo> no it's okay the giant got me
+18:23:31 <bonegar> we can go wherever np 
+18:24:05 <shrimp1989dspinfo> hm your sign isn't showing up
+18:24:33 <shrimp1989dspinfo> ok got it
+18:24:36 <NORG> William_Hootkins https://twitter.com/IndieWire/status/1498685968181772307
+18:24:48 <shrimp1989dspinfo> we can just run around the other way instead of towards the land octopus
+18:25:16 <bonegar> oh no
+18:25:30 <bonegar> welp, classic co op fail lol
+18:25:40 <shrimp1989dspinfo> lol
+18:26:12 <Homie_in_a_geod> oh i figured out why my first 2 attempts at dling elden ting didnt work
+18:26:24 <Homie_in_a_geod> its because they were downloading to the wrong hd partition, which was full
+18:26:31 <shrimp1989dspinfo> trying again
+18:27:00 <William_Hootkins> lmfao norg
+18:27:20 <William_Hootkins> cum town alreayd uncovered hes from portland oregon so he's faking the funk nayway
+18:28:37 <shrimp1989dspinfo> cool let's find some more
+18:29:07 <bonegar> dcd again rip
+18:29:19 <shrimp1989dspinfo> maybe we can try again later?
+18:29:26 <bonegar> ya sure
+18:29:44 <shrimp1989dspinfo> could be mine, stuff gets slow sometimes when i have work program open
+18:30:28 <ajj> https://twitter.com/henryevil/status/1498714410654871562 lol
+18:33:28 <William_Hootkins> lol
+18:34:21 <alansmithee_> ok fuck tree sentinel
+18:34:43 <ajj> tree sentinel blows i havent bothered trying to beat him
+18:35:03 <William_Hootkins> jee sentinel
+18:36:42 <alansmithee_> like how does a horse fucking dash sideways?
+18:38:51 <bonegar> me and shrimp killed 1.75 disgusting octopuses
+18:41:21 <shrimp1989dspinfo> i just got him again by myself
+18:41:46 <shrimp1989dspinfo> i wish he gave more htan 320 runes
+18:42:18 <ajj> nice
+18:42:25 <alansmithee_> also is there any reason to not just pop all the golden rune things? 
+18:43:38 <ajj> sometimes when you want to save up to buy an expensive item it helps to have 1 or 2 in the pocket
+18:43:44 <ajj> but generally i spend em when i can
+18:44:38 <ajj> also progamer tip you can just sell them to any merchent and you'll get the same amt of runes and its way faster than popping them all
+18:45:24 <shrimp1989dspinfo> ?? you can pop the runes
+18:45:29 <shrimp1989dspinfo> oh nvm
+18:45:32 <shrimp1989dspinfo> i'm an idiot
+18:45:36 <bonegar> i love how all the weapons have great versatility in this game
+18:45:41 <shrimp1989dspinfo> or maybe i'm not an idiot
+18:45:44 <shrimp1989dspinfo> what do you do with the runes
+18:45:47 <bonegar> never thought i'd be a spear player but here i am
+18:46:06 <shrimp1989dspinfo> i've only sold them
+18:47:07 <ajj> you can 'use' them in your inventory and the same thing happens
+18:47:13 <ajj> it just takes like 10 seconds longer
+18:47:38 <ajj> it was way more annoying in dark souls cause if you had 15 of them you had to use them all 1 by 1
+18:48:41 <dreddybajs> yeah
+18:48:51 <dreddybajs> still annoying you cant sell to every vendor but it's w/e
+18:49:11 <dreddybajs> alansmithee_: it's nice to keep em until you need them, like you're a few thousand souls off a level
+18:49:31 <dreddybajs> if you use em all you'll tend to walk around and lose all your souls more just before you get enough
+18:50:46 <shrimp1989dspinfo> hm i got uchigatana
+18:50:54 <shrimp1989dspinfo> maybe i wanna switch t othis instead of flail for now
+18:51:09 <bonegar> oh sick
+18:53:30 <bonegar> samurai looked like such a cool starting class
+18:53:32 <shrimp1989dspinfo> i ran into a bunch of skeletons rip
+18:53:42 <shrimp1989dspinfo> they didn't kill me but i got scared
+18:53:53 <William_Hootkins> yeah i almost did samurai
+18:54:00 <alansmithee_> gonna try a dragon now
+18:54:06 <William_Hootkins> gl\
+18:54:10 <alansmithee_> i'm gonna get wrecked but maybe i'll do better
+18:54:30 <ajj> dragons are Freaking Fail
+18:54:46 <William_Hootkins> which dragon u fightin
+18:54:48 <alansmithee_> man i'm tempted to get a jellyfish in real life this thing is doing wonders for my confidence
+18:54:56 <William_Hootkins> lol
+18:54:57 <alansmithee_> gonna go to the one right near the starting area
+18:55:18 <shrimp1989dspinfo> uchigatana is sick
+19:09:01 <Nude_Riker> i feel confident i could defeat most jellyfish
+19:11:51 <William_Hootkins> SOON. https://usercontent.irccloud-cdn.com/file/eU6e2b8h/image.png
+19:14:27 <shrimp1989dspinfo> i'm at some camp in caelid where some guys are fighting giant rats and i'm passively collecting runes
+19:14:29 <shrimp1989dspinfo> feels like cheating
+19:15:40 <William_Hootkins> youll permanently lose more runes than you could ever accrue that way
+19:15:43 <William_Hootkins> so i think its ok
+19:16:15 <shrimp1989dspinfo> this seems like a really easy way to level up
+19:16:25 <shrimp1989dspinfo> there's a site of grace right next to this encampment
+19:16:48 <shrimp1989dspinfo> the rats wear down the guys and i'm throwing fireballs at them to kill them and get their runes
+19:16:51 <shrimp1989dspinfo> then i just rest and come back
+19:16:58 <William_Hootkins> did anyone else go to the secret side enterance to the castle
+19:17:03 <William_Hootkins> that's just a dumb dead end
+19:17:03 <William_Hootkins> lol
+19:17:31 <shrimp1989dspinfo> dead end?
+19:22:38 <bonegar> !gis powerful animal
+19:29:46 -!- robophiz [~robophiz@B8C50673.F3C7BB78.33CA7D1E.IP] has joined #phiz
+19:29:46 <William_Hootkins> which site of grace is that shrimp1989dspinfo in caleid
+19:29:54 <William_Hootkins> seems like a good place to chill while im working
+19:29:55 <William_Hootkins> lol
+19:30:09 <lavender_toni> sorry shrimp i forgot to take a photo of my burger
+19:30:11 <alansmithee_> 2:11 PM <William_Hootkins> SOON. https://usercontent.irccloud-cdn.com/file/eU6e2b8h/image.png
+19:30:11 <alansmithee_> lol that's basically what i feel like. although the dragon didn't seem too impressed with my jellyfish :(
+19:30:43 <Homie_in_a_geod> reading about fc saint pauli because of one of the ll questions today and the fact that they might get promoted
+19:30:48 <Homie_in_a_geod> Several bands have also made music directly related to St. Pauli: The Norwegian punk rock band Turbonegro recorded a special version of their song "I Got Erection" with re-worked German lyrics for St. Pauli.
+19:30:48 <alansmithee_> and yeah i think i went in the side entrance. i'm fucking around on the other side of the world now
+19:30:58 <Homie_in_a_geod> wonder how they made that work
+19:31:01 <shrimp1989dspinfo> https://usercontent.irccloud-cdn.com/file/duHOCOKO/image.png
+19:31:06 <Homie_in_a_geod> !y turbonegro i got erection st pauli
+19:31:13 <shrimp1989dspinfo> that's ok toni, was it good
+19:31:15 <shrimp1989dspinfo> what was on it
+19:31:30 <lavender_toni> it served its purpose
+19:31:57 <lavender_toni> beyond meat and uhh jalapeno and mayo and something
+19:32:27 <Homie_in_a_geod> ok the chorus of this is still i got erection
+19:32:30 <Homie_in_a_geod> lol
+19:32:43 <lavender_toni> ddint the turbongego guy die
+19:33:10 <Homie_in_a_geod> i dotn think the main one did
+19:33:29 <Homie_in_a_geod> oh, maybe he did
+19:34:07 <Homie_in_a_geod> i guess he left the band in 2010 though
+19:38:30 -!- the`shima [uid403803@synIRC-EB1D7AA1.hampstead.irccloud.com] has joined #phiz
+19:38:46 <the`shima> hi
+19:39:40 <bonegar> hows it going
+19:41:00 <Nude_Riker> yo
+19:46:19 <William_Hootkins> smoke
+19:46:20 <William_Hootkins> wins
+19:46:37 <William_Hootkins> !q #phiz
+19:46:41 <William_Hootkins> classic
+19:47:36 <scoop_jackson> !q #phiz
+19:48:38 <William_Hootkins> lol
+19:51:27 <alansmithee_> man that bear gave me a megahug. but nothing a boy and his trusty jellyfish couldn't handle
+19:53:12 <scoop_jackson> lol
+19:53:36 <scoop_jackson> not really sure how this jellyfish is hanging around out of water
+19:53:46 <scoop_jackson> are you an aquawarrior or something
+19:53:51 <bonegar> it's spectral
+19:54:22 <scoop_jackson> !gis spectral jellyfish
+19:59:26 <Melber> i wonder if i could finagle it so i could do the MSU-1 stuff with the FFIV randomizer
+20:00:24 <Melber> lol the ffiv pixel remaster music is pretty good but what is this weird victor wooten shit https://www.youtube.com/watch?v=J4BwuYALNx8&t=4992s
+20:16:40 <dreddybajs> its weird in souls and elden how there are a bunch of irish/celtic names but no irish accents (from what ive heard)
+20:17:16 <Homie_in_a_geod> i have ordered sydney cards for new deck
+20:18:59 <alansmithee_> man this sucks i'm at a boss fight but it won't let me bring my trust jellyfish
+20:18:59 <dreddybajs> what u get
+20:19:13 <William_Hootkins> this motherr fucking giant crow can suck my ass hole
+20:19:26 <dreddybajs> yea they suck lol
+20:19:48 <Homie_in_a_geod> i put one of each of the foil ukiyo-e lands in sydneys deck because i am the best partner of all time
+20:19:59 <Homie_in_a_geod> dreddybajs: cards for emmara soul of the accord deck
+20:20:08 <Homie_in_a_geod> most notably (in terms of price) anointed procession
+20:20:16 <dreddybajs> mismatching basics idk...
+20:20:20 <dreddybajs> i have a foil one of those lol
+20:20:28 <dreddybajs> draft chaff that i kept thinking itd be edh playable
+20:20:36 <Homie_in_a_geod> https://www.mtggoldfish.com/deck/4647812#paper
+20:20:50 <Homie_in_a_geod> anointed procession is like 40 bucks lol
+20:21:03 <Homie_in_a_geod> this decklist is subject to change a little but this is mostly it
+20:21:35 <Homie_in_a_geod> 3:20 PM <dreddybajs> mismatching basics idk...
+20:21:41 <Homie_in_a_geod> theyre not mismatching theres only 2 of each basic in the deck
+20:21:48 <dreddybajs> o nice
+20:21:55 <Homie_in_a_geod> thats in her 5c slivers
+20:22:13 <dreddybajs> 34 lands seems very light to me
+20:22:14 <Homie_in_a_geod> rest of the lands are duals/fetches/stuff like cavern of souls and sliver hive or w/e
+20:22:21 <dreddybajs> but im no edh deck builder
+20:22:40 <dreddybajs> oh u got ramp spells and so forth
+20:22:43 <Homie_in_a_geod> yeah
+20:22:49 <dreddybajs> nissa voice of zendikar is a good one
+20:22:50 <alansmithee_> 34 is fine if you have a ton of ramp and stuff
+20:22:51 <dreddybajs> for that type of deck
+20:22:55 <alansmithee_> some of my decks ran 32
+20:23:08 <Homie_in_a_geod> theres sol ring, springleaf drum, im probably going to add paradise mantle
+20:23:20 <dreddybajs> u should put uhh
+20:23:25 <Homie_in_a_geod> and then abundant harvest/adventurous impulse
+20:23:25 <dreddybajs> whats the saga from dominaria
+20:23:27 <dreddybajs> 1G
+20:23:30 <Homie_in_a_geod> song of freyalise
+20:23:31 <Homie_in_a_geod> yeah
+20:23:31 <dreddybajs> yea
+20:23:35 <Homie_in_a_geod> its going to go in i think
+20:23:43 <Homie_in_a_geod> i have a copy somewhere
+20:23:55 <dreddybajs> thats cool cause its ramp that might randomly win the game 
+20:24:04 <Homie_in_a_geod> yeah
+20:24:21 <William_Hootkins> nunjus
+20:24:22 <Homie_in_a_geod> im thinking about putting smothering tithe in but idk
+20:24:39 <Homie_in_a_geod> probably going to swap out the myojin for parhelion ii as a top end thing
+20:25:14 <dreddybajs> yea play that busted card
+20:25:20 <dreddybajs> everyone else will be
+20:25:24 <William_Hootkins> sluck
+20:26:03 <Homie_in_a_geod> idk how well smothering tithe fits here although i guess it helps get to the high end threats
+20:26:16 <Homie_in_a_geod> like a huge X spell or whatever
+20:26:49 <Homie_in_a_geod> based on early playtesting it seems like not the best use of 4 mana unless i can do it turn 2 or 3 but idk
+20:27:20 <Homie_in_a_geod> the 10/15 forest plains distro on there is also definitely wrong (should be 13/12 in favor of forests)
+20:27:33 <dreddybajs> idk fast mana is broken thats my opinion
+20:27:33 <dreddybajs> >:D
+20:27:36 <Homie_in_a_geod> the rest of the landbase is just based on what i had. if i had another boseiju it would go in there
+20:27:52 <Homie_in_a_geod> yeah but its not really that fast imo
+20:32:56 <William_Hootkins> eating food
+20:33:46 <Homie_in_a_geod> https://twitter.com/Poodleslime/status/1498228180443807745
+20:35:10 <scoop_jackson> lol
+20:50:34 <William_Hootkins> lol
+20:50:36 <William_Hootkins> nooooo
+20:51:17 <William_Hootkins> !gis dj 51 penis
+21:10:14 <William_Hootkins> lol shrimp1989dspinfo thank u for the heads up on this rune farming zone
+21:10:31 <William_Hootkins> nice to get a little runeage while i do shit around the house
+21:17:28 <alansmithee_> lol i just got squished by a building
+21:18:43 <dreddybajs> lol
+21:18:46 <dreddybajs> that happened to me... twice
+21:18:50 <dreddybajs> i never learn
+21:19:50 <alansmithee_> yeah i see why the reviews for this were good, and i'm glad i stuck to it
+21:19:57 <alansmithee_> been playing hours the last two days
+21:20:15 <alansmithee_> probably hav en't had a feel like this in a game since morrowwind 
+21:20:22 <William_Hootkins> yeah
+21:20:35 <William_Hootkins> its a much diff kind of game but i get that 
+21:20:48 <dreddybajs> incredible game
+21:21:29 <shrimp1989dspinfo> yeah will you're welcome
+21:21:46 <shrimp1989dspinfo> it's really cool how you can just crouch and get 2-3k runes
+21:21:50 <shrimp1989dspinfo> then rest and come back
+21:22:37 <William_Hootkins> theyve found my crouching spots a few times
+21:22:40 <William_Hootkins> came back and i was dead
+21:22:41 <William_Hootkins> lol
+21:22:49 <shrimp1989dspinfo> rofl
+21:22:54 <shrimp1989dspinfo> yeah sometimes the rats push them up there
+21:23:09 <shrimp1989dspinfo> but even then you can easily pick up your runes so it doesn't matter
+21:23:15 <shrimp1989dspinfo> i cheesed that tower too
+21:23:30 <shrimp1989dspinfo> you can hurl fireballs at the two archers up there from teh ground and they can't get you
+21:23:45 <shrimp1989dspinfo> there's a big shield guy on the final level that i haven't tried attacking because he spooked me
+21:27:34 <William_Hootkins> i dont have any spells
+21:27:35 <William_Hootkins> ftl
+21:27:44 <William_Hootkins> i kiled both of those two archers
+21:27:53 <William_Hootkins> theres actually: 3 shield guys up there
+21:27:59 <William_Hootkins> so thats the story of how i lost 5000 runes
+21:29:22 <William_Hootkins> i only have one spell rn and it requires like 16 faith
+21:30:47 <shrimp1989dspinfo> what's your faith level?
+21:30:53 <William_Hootkins> like 8
+21:30:55 <shrimp1989dspinfo> there's someone at the roundtable that sells spells
+21:31:02 <William_Hootkins> yeah i need to go back there
+21:31:08 <shrimp1989dspinfo> there's three big shield guys??
+21:31:16 <shrimp1989dspinfo> i only saw one
+21:31:28 <William_Hootkins> at least 2
+21:31:34 <shrimp1989dspinfo> oh no
+21:31:36 <William_Hootkins> theres 2 in the corners
+21:31:47 <William_Hootkins> i tricked one of them into coming down the ladder
+21:31:52 <William_Hootkins> and went up and saw another one
+21:31:56 <William_Hootkins> and i think 2 of them pwned me
+21:32:05 <William_Hootkins> so theres at least 2 but possibly a third
+21:32:24 <William_Hootkins> i dont think the guy could get back up the ladder that quick but i could be wrong
+21:38:24 -!- robophiz [~robophiz@B8C50673.F3C7BB78.33CA7D1E.IP] has joined #phiz
+21:48:01 <shrimp1989dspinfo> i need better armor
+21:48:03 <shrimp1989dspinfo> or something
+21:48:09 <shrimp1989dspinfo> bonegar got to see how terrible i am
+21:48:22 <shrimp1989dspinfo> i think i just don't have the skill needed for games like thi
+21:48:23 <shrimp1989dspinfo> s
+21:48:40 <eric> yes u have
+21:48:57 <shrimp1989dspinfo> i'm too slow
+21:49:04 <shrimp1989dspinfo> i need rune factory 5 to come out now
+21:49:29 <shrimp1989dspinfo> three weeks to go
+21:49:55 <eric> looks cute
+21:50:01 <eric> i never played any of those games
+21:50:14 <William_Hootkins> im at the rune factory right now
+21:50:18 <William_Hootkins> just raking em in
+21:51:07 <ajj> im at the pizza hut, i'm at the rune factory, i'm at the combination pizza hut and rune factory
+21:51:16 <alansmithee_> lol
+21:52:21 <shrimp1989dspinfo> lol
+21:52:27 <shrimp1989dspinfo> they're fun eric
+21:52:35 <shrimp1989dspinfo> rf5 got delayed so they could add gay marriage
+21:52:40 <shrimp1989dspinfo> i wish they just patched it in
+21:52:50 <shrimp1989dspinfo> because i've been waiting for this game for a couple years now
+21:53:00 <shrimp1989dspinfo> they're patching it in for the jp release later on lol
+21:53:09 <eric> devs finally not too lazy
+21:53:22 <shrimp1989dspinfo> nah it was localizers who made a fuss
+21:53:30 <shrimp1989dspinfo> i don't care about this crap i just want to play the game
+21:53:49 <shrimp1989dspinfo> it was supposed to be out last year
+21:54:23 <shrimp1989dspinfo> the preorder bonus is lousy too
+21:54:32 <shrimp1989dspinfo> usually there's a good plush but this one is just a keychain plush
+21:54:36 <shrimp1989dspinfo> so i didn't even bother
+21:54:49 <shrimp1989dspinfo> i've preordered harvest moon and rune factory games for years for this reason
+21:55:03 <Homie_in_a_geod> dreddybajs: i have a mtg rules q for you
+21:55:07 <eric> wow
+21:55:13 <eric> physical anything is a surprise to me
+21:55:16 <shrimp1989dspinfo> generally i don't agree with preordering games but but that's my exception
+21:55:17 <shrimp1989dspinfo> yeah
+21:57:30 <shrimp1989dspinfo> here's some of them https://usercontent.irccloud-cdn.com/file/kXqSCNYi/20220301_165709.jpg
+21:58:16 <dreddybajs> GO FOR IT Homie_in_a_geod 
+21:58:17 <dreddybajs> oops
+21:58:22 <Homie_in_a_geod> lol
+21:58:26 <dreddybajs> though i am no longer a juge and not au fait with new cards
+21:58:34 <Homie_in_a_geod> these are very much not new cards
+21:58:38 <Homie_in_a_geod> well one of them is newish
+21:58:40 <Homie_in_a_geod> anyway
+21:58:42 <Homie_in_a_geod> ok the question is re: utopia sprawl
+21:58:45 <dreddybajs> ya
+21:59:03 <Homie_in_a_geod> the language on utopia sprawl says enchant forest and it says whenever enchanted forest is tapped for mana
+21:59:13 <dreddybajs> ya
+21:59:23 <Homie_in_a_geod> so if you have a yavimaya out and you enchant a plains with utopia sprawl. but then the yavimaya goes away
+21:59:41 <alansmithee_> falls off
+21:59:42 <Homie_in_a_geod> does 1. the enchantment fall off and 2. if no, are you still able to get the extra mana
+21:59:55 <alansmithee_> no longer a legal target
+21:59:59 <dreddybajs> yeah it falls off
+22:00:02 <Homie_in_a_geod> ok
+22:00:04 <Homie_in_a_geod> ty
+22:00:11 <dreddybajs> enchant X can always only enchant X
+22:00:22 <alansmithee_> that rule is also why animate dead has such an insane new rules text box
+22:00:25 <dreddybajs> yea
+22:00:26 <Homie_in_a_geod> i wasnt sure if that was only when it was being cast or it continued checking
+22:00:32 <Homie_in_a_geod> animate dead's rules text ftw
+22:00:36 <dreddybajs> nah it's state based actions territory
+22:00:51 <dreddybajs> so it would fall off and die due to state based actions, no player gets priority to do anything in between
+22:01:15 <Homie_in_a_geod> got it
+22:01:39 <eric> animate dad
+22:01:45 <Homie_in_a_geod> that is a scenario that could possibly happen in this deck but, generally people i play with (right now that is just sydney but also the group i played with before) frown upon LD
+22:03:24 <dreddybajs> classic edh player move
+22:03:35 <Homie_in_a_geod> what is
+22:03:39 <Homie_in_a_geod> frowning upon ld?
+22:03:42 <dreddybajs> they should play vs my friend jamie's archangel avacyn deck (r/w land destruction)
+22:03:44 <dreddybajs> ya
+22:03:49 <Homie_in_a_geod> lol
+22:04:30 <Homie_in_a_geod> its just like, most decks have nothing to counter LD so if someones playing LD it more or less means no one else will be playing
+22:05:56 <alansmithee_> a lot of edh players do
+22:06:34 <alansmithee_> i had one guy concede when i revealed armaggeddon from some effect and go into this whole rant about had he known i had it, he wouldn't have even played
+22:06:48 <eric> what a loser
+22:06:59 <Homie_in_a_geod> lol
+22:07:03 <eric> magic players sound like such babies half the time
+22:07:27 <eric> ooh i got to solve this damn game but then someone presents me with something that defeats my solution i get pissed
+22:07:40 <alansmithee_> it's much worse in edh 
+22:07:54 <Homie_in_a_geod> eh i mean i guess it depends on the level of your reaction but if youre playing with a group and its generally agreed that no one wants people to play a certain thing, you probably shouldnt do that
+22:07:59 <Homie_in_a_geod> or find another group i guess
+22:08:03 <alansmithee_> just because a lot of people think edh =  casual and casual = don't need to try to win
+22:08:04 <dreddybajs> ya
+22:08:10 <dreddybajs> thats why edh, is bad
+22:08:21 <dreddybajs> you have to carefully negotiate whats allowed in a game of mtg
+22:08:43 <alansmithee_> i remember one of my friends had some dumb chaos deck he'd play. he literally was resolving a turn in the time it took for me and another group to finish a game
+22:09:05 <Homie_in_a_geod> i think that people should be allowed to play whatever but i also think that if you have a dedicated group that you're playing with, it's not fun when (for example) one guy is playing a cedh deck that can consistently go off on turn 3 and everyone else is playing poverty chaff
+22:09:24 <alansmithee_> i mean i can feel that
+22:10:16 <Homie_in_a_geod> that being said the guy who ran the group i used to play in played super degenerate shit and then would get mad if someone else hit an infinite combo on like turn 13
+22:10:23 <alansmithee_> i guess my experience was less "people building decks from limited card availability" and more "people wanting to waste 3 or 4 other people's time"
+22:10:42 <Homie_in_a_geod> lol
+22:10:43 <alansmithee_> although tbh outside of a couple folks i never got much pushback and just avoided those dudes
+22:10:53 <dreddybajs> ya Homie_in_a_geod but i feel like power level is diff to "this strat is just not allowed even if your deck sucks"
+22:11:28 <alansmithee_> hell i've seen people bitch about board wipes which is like...lol
+22:11:30 <Homie_in_a_geod> i mean if you can lock everyone else out of playing magic then your deck probably doesnt suck very much
+22:11:45 <Homie_in_a_geod> idk whos bitching about board wipes, that's dumb as hell
+22:11:48 <dreddybajs> just lost 30,000 souls
+22:11:49 <dreddybajs> D;
+22:11:53 <alansmithee_> i don't mind those decks (hell i played prison decks)
+22:11:57 <alansmithee_> rip dreddybajs 
+22:12:03 <Homie_in_a_geod> my merieke ri berit deck was probably a somewhat unfun deck to play against but it wasnt degenerate/cEDH
+22:12:20 <alansmithee_> but when i talk about wasting time it's more dudes who have some durdly combo that doesn't even win but takes an hour a turn
+22:12:22 <dreddybajs> alansmithee_: yeah i remember i played a game where one guy bragged about having 3-4 board wipes in all his decks, then he told someone off for casting blasphemous act later because it's "too good"
+22:12:27 -!- toke_squad_yablo [~cgiirc@synIRC-385A46B9.res.spectrum.com] has joined #phiz
+22:12:28 <Homie_in_a_geod> but the guy who ran my group just folded in the middle of a game he easily could have won still when i started going off and went "it's ok this just isn't fun to me"
+22:12:35 <Homie_in_a_geod> like eat shit dude lol
+22:12:45 <alansmithee_> dreddybajs: lmao yeah that shit sucks
+22:12:53 <dreddybajs> lol for that reason i hear "you can only concede at sorcery speed" is a home rule in a lot of groups Homie_in_a_geod 
+22:12:53 <Homie_in_a_geod> this guy played some lazav shit that could go off on turn 3
+22:13:01 <Homie_in_a_geod> lol
+22:13:16 <eric> losing sucks i like to win so lets play again until i win
+22:13:27 <Homie_in_a_geod> i changed my merieke deck anyway to be more fun/stupid
+22:14:09 <Homie_in_a_geod> it used to be just about being able to untap merieke almost infinitely to machine gun down everyone elses creatures but now its just about stealing things and playing other peoples decks
+22:14:23 <Homie_in_a_geod> that was kind of my original plan with it anyway
+22:14:43 <Homie_in_a_geod> i should update all my decklists, they're all pretty out of date i think
+22:16:36 <dreddybajs> also i think the "concede at sorcery speed" thing is to stop people going "ok, you're gonna gain 100 lifelink? i concede before damage"
+22:16:45 <dreddybajs> but again if your group is doing that stuf... just tell them to stop
+22:17:02 <Homie_in_a_geod> ya
+22:21:40 <alansmithee_> i just realized the kamigawa lands have the kanji name of each land on them
+22:22:57 <eric> https://usercontent.irccloud-cdn.com/file/io4vClII/Screenshot_20220228-231156.png
+22:28:54 <ajj> <Homie_in_a_geod> but the guy who ran my group just folded in the middle of a game he easily could have won still when i started going off and went "it's ok this just isn't fun to me"
+22:28:59 <ajj> people do this in yugioh constantly lol
+22:36:26 <Homie_in_a_geod> cool thing to know about
+22:44:15 <William_Hootkins> yogaoh
+22:45:49 <William_Hootkins> anyone said this yet
+22:45:54 <William_Hootkins> cheugy-oh
+22:53:35 <eric> dookioh
+23:03:20 <shrimp1989dspinfo> yugayoh
+23:07:58 <dreddybajs> just got to the capital
+23:08:04 <dreddybajs> theres an insane boost on how many souls enemies drop lol
+23:08:20 <dreddybajs> the easy to kill guys all drop 300+
+23:08:24 <shrimp1989dspinfo> wtf
+23:08:26 <shrimp1989dspinfo> how do you get there
+23:08:32 <dreddybajs> very carefully
+23:08:36 <shrimp1989dspinfo> rofl
+23:08:46 <shrimp1989dspinfo> i don't know if i'm having fun
+23:08:48 <dreddybajs> shrimp1989dspinfo: u have to beat the academy i think first
+23:08:53 <alansmithee_> did you fight the giant at the capital? 
+23:08:56 <shrimp1989dspinfo> i explored all the areas i don't immediately die in
+23:09:04 <dreddybajs> the gargoyle? i ran past him lol
+23:09:06 <dreddybajs> outside
+23:09:16 <dreddybajs> or the 2 archers and the 1 axe giant i beat them
+23:09:17 <alansmithee_> oh i think i got there a different way lol
+23:10:09 <dreddybajs> i had to beat draconic tree sentinel to get in alansmithee_ 
+23:10:11 <dreddybajs> it was really hard
+23:10:15 <dreddybajs> shrimp1989dspinfo: what boss are u on
+23:10:21 <dreddybajs> maybe we can help u out to get to next area
+23:10:27 <shrimp1989dspinfo> i've only beaten margit
+23:10:36 <shrimp1989dspinfo> i couldn't get past the castle so i've just been running around
+23:10:36 <alansmithee_> i uhh, was teleported there lol
+23:10:37 <dreddybajs> oh ya so you're on stormveil
+23:10:48 <dreddybajs> you should be able for the castle!! i beleive in you
+23:10:55 <alansmithee_> assuming we're talking the capital city
+23:11:08 <registered_mirc> capital city is another place
+23:11:15 <alansmithee_> ahh ok
+23:11:16 <registered_mirc> i got teleported there too
+23:11:24 <registered_mirc> and theres a big fucker taking a nap
+23:11:46 <dreddybajs> im in capital city and it looks fuckin sick
+23:11:48 <dreddybajs> thats all i know
+23:11:56 <shrimp1989dspinfo> i'll try playing again tomorrow i guess
+23:11:57 <alansmithee_> yeah i fell off the edge and he followed me over lol
+23:12:56 <alansmithee_> i tried the claws and didn't like them unfortunately
+23:13:14 <alansmithee_> seems to really not have any benefit, the damage and stagger seems less than just using a sword
+23:13:28 <dreddybajs> maybe it applies bleed
+23:13:30 <registered_mirc> lmfao
+23:13:30 <registered_mirc> https://cdn.discordapp.com/attachments/619709267619872771/948271769230405722/image0.png
+23:13:57 <shrimp1989dspinfo> lmao
+23:14:00 <dreddybajs> hell yes
+23:14:01 <dreddybajs> lmao
+23:14:16 <alansmithee_> maybe that's it
+23:14:20 <registered_mirc> this person is a true gamer
+23:14:29 <registered_mirc> knows how to have fun
+23:14:55 <registered_mirc> you know what
+23:15:01 <registered_mirc> that image has inspired me
+23:15:09 <registered_mirc> dinner tonight is: pizza time
+23:15:26 <shrimp1989dspinfo> i want pizza
+23:15:27 <dreddybajs> i always thought turtles pizza looked soooo good
+23:15:29 <dreddybajs> in the cartoon
+23:15:40 <registered_mirc> yeah ive never had pizza that gooey
+23:16:03 <registered_mirc> you wanna see something fucked up tho
+23:16:47 <registered_mirc> https://i.imgur.com/fsNLWPu.png
+23:17:06 <registered_mirc> what kind of absolute psycho would get a pizza and replace all the sauce with BBQ
+23:17:06 <alansmithee_> lol what's rong with that?
+23:17:13 <alansmithee_> you do it for chicken bbq
+23:17:20 <alansmithee_> chicken, bbq sauce, onion
+23:17:25 <registered_mirc> what the hell
+23:17:33 <registered_mirc> why even bother getting a pizza at that point
+23:17:40 <registered_mirc> just get bbq chicken
+23:17:51 <alansmithee_> cause you want the bread and dough
+23:17:59 <alansmithee_> you want a nice slice and the cheese flavor
+23:18:00 <dreddybajs> yeah its a thing here
+23:18:01 <dreddybajs> i hate it
+23:18:02 <alansmithee_> it's good
+23:18:07 <registered_mirc> no thanks
+23:18:13 <registered_mirc> what about ranch
+23:18:17 <registered_mirc> a ranch sauce pizza
+23:18:18 <alansmithee_> i haven't had it in awhile but yeah it's a thing
+23:18:20 <registered_mirc> insane people
+23:18:27 <dreddybajs> its against god
+23:18:30 <shrimp1989dspinfo> bbq pizza sucks ass
+23:18:39 <alansmithee_> https://cottageinn.com/menu/pizza/
+23:18:47 <shrimp1989dspinfo> you can get a bbq chicky sando if you want that
+23:18:51 <shrimp1989dspinfo> but i don't like bbq pizza at all
+23:18:51 <alansmithee_> they have all of those, i used to order from them a lot
+23:18:53 <registered_mirc> i mean
+23:18:57 <registered_mirc> japan does weird pizza
+23:19:04 <registered_mirc> that's like their thing
+23:19:09 <registered_mirc> i don't agree with it mostly
+23:19:11 <alansmithee_> japan has some weird ass shit
+23:19:14 <shrimp1989dspinfo> corn and mayo pizza
+23:19:21 <alansmithee_> they also had one of the best pizzas ive had there
+23:19:23 <shrimp1989dspinfo> i love looking at jp pizza menus
+23:19:25 <registered_mirc> ive had corn on a pizza that was ok
+23:19:31 <shrimp1989dspinfo> i love corn
+23:19:35 <shrimp1989dspinfo> i don't think i'd eat it on pizza
+23:19:38 <shrimp1989dspinfo> but corn is ftw
+23:19:41 <registered_mirc> it is
+23:19:42 <shrimp1989dspinfo> corm
+23:19:44 <alansmithee_> it was funny my friend at the time ordered it, and she was like "this is the first good thing i've heard you say about japan"
+23:19:51 <alansmithee_> it was called a quattro
+23:20:16 <shrimp1989dspinfo> quattro bajeena pizza
+23:20:28 <registered_mirc> gut i know this stuff is probably good
+23:20:39 <registered_mirc> it would have to be a special outing
+23:20:41 <registered_mirc> like, let'
+23:20:45 <registered_mirc> s get weird pizza
+23:20:54 <registered_mirc> not, let's order pizza, and then someone gets some weird shit
+23:21:04 <alansmithee_> bbq chicken is pretty common i thought
+23:21:22 <registered_mirc> ive never had it or heard anyone ever say, hey lets get bbq chicken pizza
+23:21:27 <shrimp1989dspinfo> yeah a fun thing i like to do if i'm getting pizza (or food in general) is like
+23:21:38 <shrimp1989dspinfo> order something normal nad then get a psycho thing to share
+23:21:42 <registered_mirc> yeah
+23:21:48 <the`shima> whats up guys
+23:21:48 <registered_mirc> one normal pizza and one funny pizza
+23:21:54 <registered_mirc> that's the move
+23:22:01 <registered_mirc> we re talking about pizza that's whats up
+23:22:03 <shrimp1989dspinfo> ordering pizza but ALSO pizza fries
+23:22:14 <registered_mirc> im ok with that
+23:22:25 <alansmithee_> hell i was just talking to someone who was saying how much she liked bbq pizza
+23:22:29 <registered_mirc> its probably too much starch 
+23:22:35 <bonegar> i guess it kinda depends on the place when it comes to pizza
+23:22:43 <registered_mirc> alan, if you want it to be common its common
+23:22:47 <registered_mirc> it has not been common for me
+23:22:52 <registered_mirc> and i think its weird
+23:22:57 <registered_mirc> but, maybe its not
+23:23:03 <alansmithee_> do you get deep dish?
+23:23:07 <registered_mirc> i live in chicago
+23:23:09 <shrimp1989dspinfo> "too much starch"
+23:23:17 <alansmithee_> i know we have a lot of places that serve "chicago deep dish" but idk how authentic it is
+23:23:17 <shrimp1989dspinfo> i can eat fries with anytihng
+23:23:27 <shrimp1989dspinfo> potato is my favorite carb
+23:23:28 <alansmithee_> yeah i didn't know if it wwas actually a chicago thing
+23:23:33 <registered_mirc> !gis lou malnati's pizza
+23:23:39 <registered_mirc> that's like the gold standard
+23:23:56 <alansmithee_> see that looks way better than the stuff i get, cause that crust doesn't look super thick
+23:24:20 <registered_mirc> i imagine most people fuck it up but ive only had deep dish from like 2-3 places here
+23:24:32 <bonegar> !gis gino's deep dish pizza
+23:24:48 <registered_mirc> lou malnati's and giodano's are the two main places
+23:24:49 <bonegar> looks like corn bread in that woof
+23:24:54 <alansmithee_> i gotta try that
+23:25:10 <registered_mirc> you can actually get lou malnati's air shipped to you
+23:25:39 <alansmithee_> how expensive is that? 
+23:25:47 <registered_mirc> good question, i dunno
+23:26:26 <bonegar> https://www.tastesofchicago.com/category/Lou_Malnatis_Pizza?utm_source=LM&utm_medium=Web&utm_campaign=Hero_CTA
+23:26:27 <registered_mirc> damn it's kinda pricey
+23:26:31 <registered_mirc> https://www.tastesofchicago.com/category/Lou_Malnatis_2_Pizzas
+23:26:35 <alansmithee_> apparnetly like 70 bucks for 2
+23:26:39 <registered_mirc> includes shipping
+23:26:53 <bonegar> i feel like deep dish is probably maybe slightly easier to make at home than regular za, if you have the right cast iron
+23:26:55 <registered_mirc> i think they dry freeze it or something
+23:26:57 <alansmithee_> that's not much more than the deep dish place near me per pizza lol
+23:27:13 <registered_mirc> im getting detroit style pizza tonight
+23:27:23 <Nude_Riker> https://twitter.com/oldking420/status/1498801990649974786
+23:27:25 <registered_mirc> sorta-deep dish
+23:27:33 <alansmithee_> that italian beef sandwich looks amazing
+23:27:39 <alansmithee_> and detroit style pizza is great
+23:27:43 <registered_mirc> yeah i love it
+23:28:00 <bonegar> i just got done puking up all my lunch about 30 mins ago. i think literally the weather set me off, it's summer outside
+23:28:10 <registered_mirc> sorry to hear that
+23:28:17 <Nude_Riker> bleh i guess i will try and schedule doctor visit tomorrow, the weird stuff is not stopping. my mouth tastes like pennies again today
+23:28:21 <Nude_Riker> damn bonegar 
+23:28:26 <bonegar> it's fine, i have that post puke glow, if you know what i'm talkin about
+23:28:36 <bonegar> where you feel like you're gonna die, but like 5 voms later you feel great
+23:28:39 <Nude_Riker> i think i have a very minor ongoing upper respiratory infection
+23:28:52 <registered_mirc> alright pizza incoming
+23:28:54 <registered_mirc> very excited
+23:28:56 <Nude_Riker> possibly an infection in my mouth which would be more annoying because i would have to involve a dentist
+23:29:07 <shrimp1989dspinfo> good luck to everyone who feels ill
+23:29:08 <William_Hootkins> tee
+23:29:16 <shrimp1989dspinfo> mpg post a pic of your pizza when it arrives
+23:29:17 <bonegar> ah geez, a dentist
+23:29:18 <registered_mirc> its cool that my brain hunger is powerful enough not to let this gross discussion affect me
+23:29:29 <shrimp1989dspinfo> the vegan pizza place is closed indefinitely
+23:29:35 <registered_mirc> shrimp1989dspinfo: will do, i got pepperoin this time tho
+23:29:36 <bonegar> will you post a pic of your za?
+23:29:39 <registered_mirc> not very attractice
+23:29:41 <alansmithee_> registered_mirc: nice you gonna elden ring later too?
+23:29:43 <registered_mirc> attractive
+23:29:55 <the`shima> guess ill start jojo part 3 tonight
+23:29:55 <registered_mirc> alansmithee_: im elden ringing until pizza, and then more
+23:29:56 <shrimp1989dspinfo> my roommate and i have been owned three times now trying to get pizza from the pizza place
+23:30:11 <registered_mirc> like
+23:30:13 <alansmithee_> sweet i've been loving it. i'm taking a break now but i'll probably stay up all night again doing it
+23:30:14 <registered_mirc> was there a pizza boss
+23:30:20 <registered_mirc> and it did a combo and YOU DIED
+23:30:24 <shrimp1989dspinfo> sadly yes
+23:30:27 <registered_mirc> rip
+23:30:30 <shrimp1989dspinfo> they keep closing unexpectedly
+23:30:34 <bonegar> part 3 is when jojos starts getting really long, but also the most famous part i think
+23:30:46 <shrimp1989dspinfo> we've ordered from there a couple times and it' sfully staffed by teens so they get confused when we order one vegan pizza and one normal one but also veg appetizers
+23:31:02 <Nude_Riker> .gis jojo part 3
+23:31:10 <registered_mirc> its !gis
+23:31:13 <Nude_Riker> oh right
+23:31:17 <Nude_Riker> !gis jojo part 3
+23:31:18 <bonegar> stardust crusaders
+23:31:34 <registered_mirc> alright 40 mintues til 'za
+23:32:09 <registered_mirc> ive been exploring like crazy
+23:32:10 <Nude_Riker> jotaro is such a bad boy
+23:32:18 <registered_mirc> i have all the maps i can get before progression
+23:32:31 <Nude_Riker> https://www.youtube.com/watch?v=q_OhgBAqR6s
+23:32:40 <bonegar> jotaro is cool because he calls his mom a dumb bitch and yells at her then she cries a lot
+23:33:06 <Nude_Riker> yar yar days indeed
+23:33:23 <shrimp1989dspinfo> i would never call my mom a dumb bitch
+23:33:34 <Nude_Riker> well you arent of the joestar bloodline
+23:33:39 <shrimp1989dspinfo> true
+23:33:57 <registered_mirc> i called my mom a fucking bitch when i was an edgy teen with problems
+23:34:00 <registered_mirc> i regret it
+23:34:24 <shrimp1989dspinfo> my mom and i have literally never argued
+23:34:28 <shrimp1989dspinfo> not once in my entire life
+23:34:33 <registered_mirc> damn
+23:34:39 <registered_mirc> i wish that was the case for me :(
+23:34:46 <shrimp1989dspinfo> we're bros
+23:34:55 <shrimp1989dspinfo> when i was little i wouldn't talk to anyone except her and my dad
+23:34:59 <registered_mirc> my relationship with my parents was rough til i was like 30
+23:35:02 <shrimp1989dspinfo> for years
+23:35:10 <shrimp1989dspinfo> i didn't get along well with my dad until kind of recently
+23:35:14 <shrimp1989dspinfo> in the last few years
+23:35:41 <shrimp1989dspinfo> but i have a great stepdad which i think might be an extremely rare parent roll
+23:35:47 <shrimp1989dspinfo> everyone always rolls shitty step parents
+23:36:10 <shrimp1989dspinfo> i am indifferent towards my dad's child bride
+23:36:42 <bonegar> i mostly just try to do the bare minimum which is when they threaten to call the police on me for not responding to texts i tell them to knock it off
+23:37:18 <shrimp1989dspinfo> my mom and i send pics of our cats to each other and my stepdad sends me pictures of trucks and tractors and motorcycles
+23:37:30 <shrimp1989dspinfo> my da dhas a walmart drug phone so he can't send me pictures
+23:37:39 <shrimp1989dspinfo> but he calls sometimes to bitch about the news
+23:37:55 <shrimp1989dspinfo> i haven't heard from him lately because he's back together wit hthe child bride so he has an outlet
+23:37:58 <William_Hootkins> does it mean something when ur tarnished boy has a glowing thing going on
+23:37:59 <bonegar> dads love to get worked up about the news
+23:38:13 <bonegar> depends on the glow
+23:38:21 <scoop_jackson> haha my dad is a trumper annd is real stressed about biden's state of the union
+23:38:25 <shrimp1989dspinfo> yeah i tell him to stop watching/listening but he won't
+23:38:26 <bonegar> maybe you got some power ups or used a rune toe nail thing
+23:38:40 <shrimp1989dspinfo> i can't really put a label on my dad
+23:38:43 <shrimp1989dspinfo> he doesn't like trump anymore
+23:39:01 <shrimp1989dspinfo> he would have voted for sanders but didn't have that option so he voted for trump
+23:39:08 <registered_mirc> my parents both know trump is a moron and im grateful for that
+23:39:30 <scoop_jackson> i dont think my dad really like trump so much as he thinks trump is unfairly treated and he would vote for trump again over a democrat in a heartbeat
+23:39:33 <shrimp1989dspinfo> trump is really funny and it's absolutely epic he has the media all riled up about him still when he's been out of office for this long already
+23:39:47 <registered_mirc> morons and fools are pretty funny
+23:39:56 <bonegar> trump was probably one of the funniest presidents, rip
+23:39:56 <registered_mirc> thats why they are at court with kinds
+23:39:59 <registered_mirc> kings
+23:40:01 <shrimp1989dspinfo> he's dumb as hell and having a wildcard president is funnier than having a fallout ghoul president
+23:40:28 <registered_mirc> it's all bad to me
+23:40:34 <bonegar> obviously he was bad but it's not like rich and powerful didn't go all out winding people up to hate him even more
+23:40:44 <registered_mirc> and largely meaningless with exception of how it seems to change everyone's attitudes for some reason
+23:40:52 <dreddybajs> new style for my guy
+23:40:55 <dreddybajs> https://usercontent.irccloud-cdn.com/file/cjF9EqR8/image.png
+23:41:05 <bonegar> cool guy
+23:41:06 <William_Hootkins> lil glowing fatass
+23:41:12 <bonegar> lookin good
+23:41:16 <Nude_Riker> new style, most expensive. called onion knight
+23:41:16 <registered_mirc> round boi
+23:41:17 <shrimp1989dspinfo> yeah mpg i agree
+23:41:35 <shrimp1989dspinfo> but i did enjoy all the stupid shit trump said that made its way into my cozy bubble
+23:41:36 <registered_mirc> its like theatre except it sucks and affects people for real
+23:41:40 <shrimp1989dspinfo> yeah
+23:41:45 <shrimp1989dspinfo> i don't like the stupid party war at all
+23:41:48 <scoop_jackson> lol dreddys
+23:42:13 <shrimp1989dspinfo> they're in an entirely different social class they don't give a shit about the people battling it out on their behalf
+23:47:21 -!- robophiz [~robophiz@B8C50673.F3C7BB78.33CA7D1E.IP] has joined #phiz
+23:47:32 <shrimp1989dspinfo> i have 7 ear piercings (3 in each lobe and 1 cartilage) and my nostril piercing
+23:47:33 <registered_mirc> my gauges got up to 3/4"
+23:47:46 <shrimp1989dspinfo> i had my tragus pierced but i had to take it out for an mri and never put it back in
+23:47:48 <registered_mirc> i havent worn them for like almsot 10 years tho
+23:47:52 <registered_mirc> ahh rip
+23:48:02 <shrimp1989dspinfo> all my earrings are small
+23:48:03 <registered_mirc> i like the weird ear pierce places
+23:48:09 <registered_mirc> with cool names
+23:48:21 <registered_mirc> tragus, antitragus
+23:48:46 <shrimp1989dspinfo> i still have a hole so i can probably shove a needle through if i wanted
+23:48:55 <shrimp1989dspinfo> i'm sensitive to metals though
+23:49:06 <bonegar> so you're a druid
+23:49:09 <shrimp1989dspinfo> rofl
+23:49:13 <shrimp1989dspinfo> the surgical steel rings that were in my third holes made my ears spaz out
+23:49:15 <William_Hootkins> i love metals
+23:49:20 <registered_mirc> same
+23:49:28 <shrimp1989dspinfo> one of them was irritated for like two years even though i switched them out with silver
+23:49:30 <registered_mirc> death metal, black metal, funeral doom metal
+23:49:33 <shrimp1989dspinfo> it just now calmed down over the last few months
+23:49:43 <alansmithee_> i like gold
+23:49:46 <alansmithee_> and platinum
+23:49:48 <alansmithee_> and titanium
+23:49:50 <alansmithee_> and mercury
+23:49:53 <shrimp1989dspinfo> metal time
+23:50:02 <alansmithee_> mercury is cool as hell
+23:50:04 <registered_mirc> !y sickest metal riff ever
+23:50:09 <registered_mirc> no not 20
+23:50:10 <alansmithee_> i wish it wasn't poisonous
+23:50:13 <shrimp1989dspinfo> what other piercings have you had mpg
+23:50:21 <alansmithee_> i would take a bath in mercury
+23:50:23 <bonegar> metals are funny, but im not sure i undestand what it is they're up to as elements or when they do their alloy things 
+23:50:32 <shrimp1989dspinfo> i'm going to drink mercury
+23:50:41 <bonegar> can you do that
+23:50:51 <registered_mirc> two on one side lip rings, eyebrow rings as a teen cos i was into korn, double piercing in each side, an upper cartillage, antitragus, rook
+23:50:54 <shrimp1989dspinfo> i want to pour mercury into m hands and let it roll around 
+23:50:55 <registered_mirc> i think that's all of them
+23:50:59 <alansmithee_> you can it's gonna fuck you up tho
+23:51:04 <registered_mirc> i like ferrofluids
+23:51:06 <registered_mirc> those rock
+23:51:07 <shrimp1989dspinfo> ya
+23:51:08 <alansmithee_> depending the amount
+23:51:26 <registered_mirc> !gis ferrofluid
+23:51:36 <bonegar> why are most of the elements metals anyway. seems fake.
+23:51:36 <shrimp1989dspinfo> my mom didn't want me to get non-ear piercings as a teen  and i'm glad she didn't
+23:51:58 <shrimp1989dspinfo> my stepdad paid for my nose ring for my 18th birthday and she was soooo mad until she saw it and then decided it was cute
+23:52:15 <shrimp1989dspinfo> she doesn't like tattoos either
+23:52:22 <registered_mirc> i remember when nose rings were for freaks
+23:52:27 <registered_mirc> piercings were for freaks
+23:52:29 <bonegar> yea my parents were very strict about that stuff
+23:52:35 <shrimp1989dspinfo> yeah there are too many now
+23:52:47 <shrimp1989dspinfo> i wish i didn't have tattoos but they are all hidden so it doesn't really matter i guess
+23:53:10 <registered_mirc> yeah i kinda regret starting tattoos because now i have to get more until they don't look unfinished
+23:53:29 <shrimp1989dspinfo> i only have 3 so it's fine
+23:53:31 <registered_mirc> i also dont want to spend money on it anymore really
+23:53:34 <registered_mirc> i have a lot, big ones
+23:53:36 <shrimp1989dspinfo> two small ones and a big one
+23:53:37 <bonegar> i'd probably only get a tattoo if i was in some kind of clandestine cult with people
+23:53:49 <shrimp1989dspinfo> my friend and i got matching tattoos as a drunk idea
+23:54:11 <registered_mirc> thats fun
+23:54:14 <shrimp1989dspinfo> the adidas logo with triangle punpun's face from oyasumi punpun inside of it
+23:54:16 <bonegar> so that means i'll never get a tattoo because nobody will let me into their cult
+23:54:27 <registered_mirc> just start your own
+23:54:35 <bonegar> i wouldnt let anyone join
+23:54:40 <William_Hootkins> yeah im glad i never got tattoos
+23:54:42 <registered_mirc> cult of the skeleton
+23:54:42 <William_Hootkins> too costly
+23:54:43 <shrimp1989dspinfo> we don't talk anymore and looking at it makes me SAD
+23:55:01 <registered_mirc> tattoo removal is better now than it ever has been before
+23:55:14 <registered_mirc> but
+23:55:16 <shrimp1989dspinfo> i don't think i'd ever remove it 
+23:55:19 <registered_mirc> maybe you will talk again someday
+23:55:27 <bonegar> you can draw upon its sadness powers as needed
+23:55:43 <scoop_jackson> mpg isnt even the first person to suggest you start a cult so you should probably do it
+23:55:47 <William_Hootkins> ya u might crush an audition with that
+23:55:55 <shrimp1989dspinfo> he's getting married to a woman who didn't want us to be friends so i don't think so
+23:56:02 <registered_mirc> bleh
+23:56:09 <shrimp1989dspinfo> i would join the cult of bonegar
+23:56:45 <William_Hootkins> bxnxgxr
+23:56:50 <bonegar> lol
+23:56:53 <registered_mirc> lmao https://i.redd.it/yxc246pwtrk81.jpg
+23:56:56 <alansmithee_> cults are a lot of work
+23:57:35 <dreddybajs> anyone wanna hang on 'cord
+23:57:43 <dreddybajs> ill be elden ringin
+23:57:52 <shrimp1989dspinfo> yeah i can hop on in a bit
+23:58:03 <scoop_jackson> you could be the conservative activist funded by the cult alan
+23:58:07 <registered_mirc> i might but ill be playing my own game so we might just be talking about different shit the whole time
+23:58:10 <dreddybajs> kewl ill go on
+23:58:12 <dreddybajs> ya thats cool
+23:58:13 <shrimp1989dspinfo> i'm sitting with chris while he games but i can go upstairs in a little while
+23:58:18 <dreddybajs> thats what my irish friends and i are doing all day lol
+23:58:23 <dreddybajs> just going WHOA.... SHIT
+23:58:25 <dreddybajs> in the mic
+23:58:28 <registered_mirc> haha
+23:58:41 <alansmithee_> scoop_jackson: lol you really want me to become a conservative. are you working for the ops? is irc compromised?!?!?!
+23:58:46 <shrimp1989dspinfo> when ciaran and i were doing this the other night half the time i was just making noises at what was going on in my game
+23:58:49 <William_Hootkins> im going to walk
+23:58:54 <shrimp1989dspinfo> aaa or OOHH
+23:58:55 <registered_mirc> [to the tune of that song] when iiiirish guys are dying...
+23:59:04 <alansmithee_> i may log on or just hang out in there
+23:59:11 <shrimp1989dspinfo> ya come hang
+23:59:14 <dreddybajs> ya lets do it
+23:59:19 <scoop_jackson> i think that seeing you trolling the libs live on newsmax would make life worth living
+23:59:25 <registered_mirc> im going to eat pizza first
+23:59:35 <shrimp1989dspinfo> i'll be on within the next 20 min probably

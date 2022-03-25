@@ -1,0 +1,104 @@
+03:12:55 :sirocco.tx.us.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+03:12:55 :sirocco.tx.us.synirc.net 002 robophiz :Your host is sirocco.tx.us.synirc.net, running version UnrealIRCd-4.2.4.1
+03:12:55 :sirocco.tx.us.synirc.net 003 robophiz :This server was created Mon Dec 20 2021 at 02:55:28 UTC
+03:12:55 :sirocco.tx.us.synirc.net 004 robophiz sirocco.tx.us.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+03:12:55 :sirocco.tx.us.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+03:12:55 :sirocco.tx.us.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+03:12:55 :sirocco.tx.us.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+03:12:55 :sirocco.tx.us.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+03:12:55 :sirocco.tx.us.synirc.net 251 robophiz :There are 25 users and 1830 invisible on 16 servers
+03:12:55 :sirocco.tx.us.synirc.net 252 robophiz 20 :operator(s) online
+03:12:55 :sirocco.tx.us.synirc.net 254 robophiz 966 :channels formed
+03:12:55 :sirocco.tx.us.synirc.net 255 robophiz :I have 194 clients and 0 servers
+03:12:55 :sirocco.tx.us.synirc.net 265 robophiz 194 202 :Current local users 194, max 202
+03:12:55 :sirocco.tx.us.synirc.net 266 robophiz 1855 8248 :Current global users 1855, max 8248
+03:12:55 :sirocco.tx.us.synirc.net 375 robophiz :- sirocco.tx.us.synirc.net Message of the Day - 
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- 20/12/2021 3:14
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-             ######  ##    ## ##    ## #### ########   ######  
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-            ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ## 
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-            ##         ####   ####  ##  ##  ##     ## ##       
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-             ######     ##    ## ## ##  ##  ########  ##       
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-                  ##    ##    ##  ####  ##  ##   ##   ##       
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-            ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-             ######     ##    ##    ## #### ##     ##  ######  
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- 
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-          | Welcome on sirocco.tx.us.synirc.net                |
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-          | Available port(s): 6660-6669                       |
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-          | SSL ports: 6697 and 7001                           |
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-          | Server Admin: Eien <eien@synirc.net>               |
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- 
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- DISCLAIMER:
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- 
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- synIRC.net will scan your IP for open proxies upon connection to our 
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- services.  You must be 18 or older to connect and chat on our services, or 
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- have parental consent. synIRC.net and its affiliates are not responsible 
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- for any bodily or mental harm that could possibly come from using its 
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- services. synIRC.net is not responsible for any data received or sent 
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- out to our clients. By connecting, you consent to have logging of your 
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- conversations done by other clients and are also bound to the rules and 
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- regulations that can be found at http://www.synirc.net/charter/
+03:12:55 :sirocco.tx.us.synirc.net 372 robophiz :- 
+03:12:55 :sirocco.tx.us.synirc.net 376 robophiz :End of /MOTD command.
+03:12:56 :sirocco.tx.us.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || Feminist*HATE_this PenisTrick || Canned Horse Meat (Whale Flavor)
+03:12:56 :sirocco.tx.us.synirc.net 333 robophiz #phiz Homie_in_a_geod 1647987277
+03:12:56 :sirocco.tx.us.synirc.net 353 robophiz @ #phiz :robophiz nutzo_da_fuccnutt NORG ehn ajj2 HellaBrad Nude_Riker alansmithee_ bonegar mpg the`shima dreddybajs Selfie_Dad Melber greatest_gamer Homie_in_a_geod coaxmetal scoop_jackson eric wild_ape-style_creature djcozmik ~het kuf 
+03:12:56 :sirocco.tx.us.synirc.net 366 robophiz #phiz :End of /NAMES list.
+13:49:44 :sirocco.tx.us.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+13:49:44 :sirocco.tx.us.synirc.net 002 robophiz :Your host is sirocco.tx.us.synirc.net, running version UnrealIRCd-4.2.4.1
+13:49:44 :sirocco.tx.us.synirc.net 003 robophiz :This server was created Mon Dec 20 2021 at 02:55:28 UTC
+13:49:44 :sirocco.tx.us.synirc.net 004 robophiz sirocco.tx.us.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+13:49:44 :sirocco.tx.us.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+13:49:44 :sirocco.tx.us.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+13:49:44 :sirocco.tx.us.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+13:49:44 :sirocco.tx.us.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+13:49:44 :sirocco.tx.us.synirc.net 251 robophiz :There are 25 users and 1819 invisible on 16 servers
+13:49:44 :sirocco.tx.us.synirc.net 252 robophiz 20 :operator(s) online
+13:49:44 :sirocco.tx.us.synirc.net 254 robophiz 961 :channels formed
+13:49:44 :sirocco.tx.us.synirc.net 255 robophiz :I have 188 clients and 0 servers
+13:49:44 :sirocco.tx.us.synirc.net 265 robophiz 188 202 :Current local users 188, max 202
+13:49:44 :sirocco.tx.us.synirc.net 266 robophiz 1844 8248 :Current global users 1844, max 8248
+13:49:44 :sirocco.tx.us.synirc.net 375 robophiz :- sirocco.tx.us.synirc.net Message of the Day - 
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- 20/12/2021 3:14
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-             ######  ##    ## ##    ## #### ########   ######  
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-            ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ## 
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-            ##         ####   ####  ##  ##  ##     ## ##       
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-             ######     ##    ## ## ##  ##  ########  ##       
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-                  ##    ##    ##  ####  ##  ##   ##   ##       
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-            ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-             ######     ##    ##    ## #### ##     ##  ######  
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- 
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-          | Welcome on sirocco.tx.us.synirc.net                |
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-          | Available port(s): 6660-6669                       |
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-          | SSL ports: 6697 and 7001                           |
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-          | Server Admin: Eien <eien@synirc.net>               |
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- 
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- DISCLAIMER:
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- 
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- synIRC.net will scan your IP for open proxies upon connection to our 
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- services.  You must be 18 or older to connect and chat on our services, or 
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- have parental consent. synIRC.net and its affiliates are not responsible 
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- for any bodily or mental harm that could possibly come from using its 
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- services. synIRC.net is not responsible for any data received or sent 
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- out to our clients. By connecting, you consent to have logging of your 
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- conversations done by other clients and are also bound to the rules and 
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- regulations that can be found at http://www.synirc.net/charter/
+13:49:44 :sirocco.tx.us.synirc.net 372 robophiz :- 
+13:49:44 :sirocco.tx.us.synirc.net 376 robophiz :End of /MOTD command.
+13:49:45 :sirocco.tx.us.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || Feminist*HATE_this PenisTrick || Canned Horse Meat (Whale Flavor)
+13:49:45 :sirocco.tx.us.synirc.net 333 robophiz #phiz Homie_in_a_geod 1647987277
+13:49:45 :sirocco.tx.us.synirc.net 353 robophiz @ #phiz :robophiz NORG HellaBrad Nude_Riker nutzo_da_fuccnutt antiracist_baby ajj2 alansmithee_ bonegar mpg the`shima dreddybajs Selfie_Dad Melber greatest_gamer Homie_in_a_geod coaxmetal scoop_jackson eric wild_ape-style_creature djcozmik ~het kuf 
+13:49:45 :sirocco.tx.us.synirc.net 366 robophiz #phiz :End of /NAMES list.

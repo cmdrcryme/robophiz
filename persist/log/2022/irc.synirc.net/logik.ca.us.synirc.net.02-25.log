@@ -1,0 +1,38 @@
+16:57:50 :logik.ca.us.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+16:57:50 :logik.ca.us.synirc.net 002 robophiz :Your host is logik.ca.us.synirc.net, running version UnrealIRCd-4.2.4.1
+16:57:50 :logik.ca.us.synirc.net 003 robophiz :This server was created Tue Jan 5 2021 at 23:38:51 UTC
+16:57:50 :logik.ca.us.synirc.net 004 robophiz logik.ca.us.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+16:57:50 :logik.ca.us.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+16:57:50 :logik.ca.us.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+16:57:50 :logik.ca.us.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+16:57:50 :logik.ca.us.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+16:57:50 :logik.ca.us.synirc.net 251 robophiz :There are 25 users and 1886 invisible on 15 servers
+16:57:50 :logik.ca.us.synirc.net 252 robophiz 20 :operator(s) online
+16:57:50 :logik.ca.us.synirc.net 254 robophiz 986 :channels formed
+16:57:50 :logik.ca.us.synirc.net 255 robophiz :I have 219 clients and 0 servers
+16:57:50 :logik.ca.us.synirc.net 265 robophiz 219 333 :Current local users 219, max 333
+16:57:50 :logik.ca.us.synirc.net 266 robophiz 1911 8248 :Current global users 1911, max 8248
+16:57:50 :logik.ca.us.synirc.net 375 robophiz :- logik.ca.us.synirc.net Message of the Day - 
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- 22/11/2021 21:24
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- 
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :-                         IIIII RRRRRR   CCCCC
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :-    sss  yy   yy nn nnn   III  RR   RR CC    C
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :-   s     yy   yy nnn  nn  III  RRRRRR  CC
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :-    sss   yyyyyy nn   nn  III  RR  RR  CC    C
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :-       s      yy nn   nn IIIII RR   RR  CCCCC
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :-    sss   yyyyy                 irc.synirc.net
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- 
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- 
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- Welcome to synIRC!
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- 
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- By connecting to synIRC, you agree to abide by the user
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- charter which can be found at https://synirc.net/charter
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- 
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- All servers run proxy scanners. By connecting, you consent
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- to having your IP address scanned for open proxies.
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- 
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- Please join #help if you require network assistance.
+16:57:50 :logik.ca.us.synirc.net 372 robophiz :- 
+16:57:50 :logik.ca.us.synirc.net 376 robophiz :End of /MOTD command.
+16:57:52 :logik.ca.us.synirc.net 332 robophiz #phiz :According to evidence admitted at the board of rights hearing, "Snorlax" is a Pokémon creature known as "The Sleeping Pokémon." || Black lives matter. Pooplunch stands in solidarity with the Black community.
+16:57:52 :logik.ca.us.synirc.net 333 robophiz #phiz Moon_Cube_Mystery 1642602116

@@ -1,0 +1,34 @@
+09:43:14 :sirocco.tx.us.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+09:43:14 :sirocco.tx.us.synirc.net 002 robophiz :Your host is sirocco.tx.us.synirc.net, running version UnrealIRCd-4.2.4.1
+09:43:14 :sirocco.tx.us.synirc.net 003 robophiz :This server was created Mon Dec 20 2021 at 02:55:28 UTC
+09:43:14 :sirocco.tx.us.synirc.net 004 robophiz sirocco.tx.us.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+09:43:14 :sirocco.tx.us.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+09:43:14 :sirocco.tx.us.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+09:43:14 :sirocco.tx.us.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+09:43:14 :sirocco.tx.us.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+09:43:14 :sirocco.tx.us.synirc.net 251 robophiz :There are 25 users and 1800 invisible on 15 servers
+09:43:14 :sirocco.tx.us.synirc.net 252 robophiz 19 :operator(s) online
+09:43:14 :sirocco.tx.us.synirc.net 254 robophiz 960 :channels formed
+09:43:14 :sirocco.tx.us.synirc.net 255 robophiz :I have 151 clients and 0 servers
+09:43:14 :sirocco.tx.us.synirc.net 265 robophiz 151 190 :Current local users 151, max 190
+09:43:14 :sirocco.tx.us.synirc.net 266 robophiz 1825 8248 :Current global users 1825, max 8248
+09:43:14 :sirocco.tx.us.synirc.net 375 robophiz :- sirocco.tx.us.synirc.net Message of the Day - 
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :- 20/12/2021 3:14
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-             ######  ##    ## ##    ## #### ########   ######  
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-            ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ## 
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-            ##         ####   ####  ##  ##  ##     ## ##       
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-             ######     ##    ## ## ##  ##  ########  ##       
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-                  ##    ##    ##  ####  ##  ##   ##   ##       
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-            ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-             ######     ##    ##    ## #### ##     ##  ######  
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :- 
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-          | Welcome on sirocco.tx.us.synirc.net                |
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-          | Available port(s): 6660-6669                       |
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-          | SSL ports: 6697 and 7001                           |
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-          | Server Admin: Eien <eien@synirc.net>               |
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-          |                                                    |
+09:43:14 :sirocco.tx.us.synirc.net 372 robophiz :-        --+----------------------------------------------------+--

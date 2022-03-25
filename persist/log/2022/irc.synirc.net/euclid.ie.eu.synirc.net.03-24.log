@@ -1,0 +1,106 @@
+00:32:12 :euclid.ie.eu.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+00:32:12 :euclid.ie.eu.synirc.net 002 robophiz :Your host is euclid.ie.eu.synirc.net, running version Unreal3.2.10.7
+00:32:12 :euclid.ie.eu.synirc.net 003 robophiz :This server was created Mon Aug 27 2018 at 18:59:02 UTC
+00:32:12 :euclid.ie.eu.synirc.net 004 robophiz euclid.ie.eu.synirc.net Unreal3.2.10.7 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+00:32:12 :euclid.ie.eu.synirc.net 005 robophiz CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+00:32:12 :euclid.ie.eu.synirc.net 005 robophiz MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+00:32:12 :euclid.ie.eu.synirc.net 005 robophiz STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+00:32:12 :euclid.ie.eu.synirc.net 251 robophiz :There are 25 users and 1841 invisible on 16 servers
+00:32:12 :euclid.ie.eu.synirc.net 252 robophiz 20 :operator(s) online
+00:32:12 :euclid.ie.eu.synirc.net 254 robophiz 966 :channels formed
+00:32:12 :euclid.ie.eu.synirc.net 255 robophiz :I have 216 clients and 0 servers
+00:32:12 :euclid.ie.eu.synirc.net 265 robophiz 216 537 :Current local users 216, max 537
+00:32:12 :euclid.ie.eu.synirc.net 266 robophiz 1866 8248 :Current global users 1866, max 8248
+00:32:12 :euclid.ie.eu.synirc.net 375 robophiz :- euclid.ie.eu.synirc.net Message of the Day - 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- 29/8/2018 3:07
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- This is the short MOTD. To view the complete MOTD type /motd
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-             ######  ##    ## ##    ## #### ########   ######  
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-            ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ## 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-            ##         ####   ####  ##  ##  ##     ## ##       
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-             ######     ##    ## ## ##  ##  ########  ##       
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-                  ##    ##    ##  ####  ##  ##   ##   ##       
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-            ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-             ######     ##    ##    ## #### ##     ##  ######  
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-          |                                                    |
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-          |                                                    |
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-          | Welcome to euclid.ie.eu.synirc.net                 |
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-          | Available ports: 6660-6669                         |
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-          | SSL ports: 6697, 7001                              |
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-          |                                                    |
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-          | Server Admin: bluesoul <bluesoul@synirc.net>       |
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-          |                                                    |
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :-          |                                                    |
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- DISCLAIMER:
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- synIRC.net will scan your IP for open proxies upon connection to our 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- services.  You must be 18 or older to connect and chat on our services, or 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- have parental consent. synIRC.net and its affiliates are not responsible 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- for any bodily or mental harm that could possibly come from using its 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- services. synIRC.net is not responsible for any data received or sent 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- out to our clients. By connecting, you consent to have logging of your 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- conversations done by other clients and are also bound to the rules and 
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- regulations that can be found at http://www.synirc.net/charter/
+00:32:12 :euclid.ie.eu.synirc.net 372 robophiz :- 
+00:32:12 :euclid.ie.eu.synirc.net 376 robophiz :End of /MOTD command.
+00:32:13 :euclid.ie.eu.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || Feminist*HATE_this PenisTrick || Canned Horse Meat (Whale Flavor)
+00:32:13 :euclid.ie.eu.synirc.net 333 robophiz #phiz Homie_in_a_geod 1647987277
+00:32:13 :euclid.ie.eu.synirc.net 353 robophiz @ #phiz :robophiz antiracist_baby ehn NORG HellaBrad Nude_Riker ajj2 alansmithee_ bonegar mpg the`shima dreddybajs Selfie_Dad Melber greatest_gamer Homie_in_a_geod coaxmetal scoop_jackson eric wild_ape-style_creature kuf ~het djcozmik 
+00:32:13 :euclid.ie.eu.synirc.net 366 robophiz #phiz :End of /NAMES list.
+06:57:00 :euclid.ie.eu.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+06:57:00 :euclid.ie.eu.synirc.net 002 robophiz :Your host is euclid.ie.eu.synirc.net, running version Unreal3.2.10.7
+06:57:00 :euclid.ie.eu.synirc.net 003 robophiz :This server was created Mon Aug 27 2018 at 18:59:02 UTC
+06:57:00 :euclid.ie.eu.synirc.net 004 robophiz euclid.ie.eu.synirc.net Unreal3.2.10.7 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+06:57:00 :euclid.ie.eu.synirc.net 005 robophiz CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+06:57:00 :euclid.ie.eu.synirc.net 005 robophiz MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+06:57:00 :euclid.ie.eu.synirc.net 005 robophiz STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+06:57:00 :euclid.ie.eu.synirc.net 251 robophiz :There are 25 users and 1819 invisible on 16 servers
+06:57:00 :euclid.ie.eu.synirc.net 252 robophiz 20 :operator(s) online
+06:57:00 :euclid.ie.eu.synirc.net 254 robophiz 959 :channels formed
+06:57:00 :euclid.ie.eu.synirc.net 255 robophiz :I have 210 clients and 0 servers
+06:57:00 :euclid.ie.eu.synirc.net 265 robophiz 210 537 :Current local users 210, max 537
+06:57:00 :euclid.ie.eu.synirc.net 266 robophiz 1844 8248 :Current global users 1844, max 8248
+06:57:00 :euclid.ie.eu.synirc.net 375 robophiz :- euclid.ie.eu.synirc.net Message of the Day - 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- 29/8/2018 3:07
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- This is the short MOTD. To view the complete MOTD type /motd
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-             ######  ##    ## ##    ## #### ########   ######  
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-            ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ## 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-            ##         ####   ####  ##  ##  ##     ## ##       
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-             ######     ##    ## ## ##  ##  ########  ##       
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-                  ##    ##    ##  ####  ##  ##   ##   ##       
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-            ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-             ######     ##    ##    ## #### ##     ##  ######  
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-          |                                                    |
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-          |                                                    |
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-          | Welcome to euclid.ie.eu.synirc.net                 |
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-          | Available ports: 6660-6669                         |
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-          | SSL ports: 6697, 7001                              |
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-          |                                                    |
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-          | Server Admin: bluesoul <bluesoul@synirc.net>       |
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-          |                                                    |
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :-          |                                                    |
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- DISCLAIMER:
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- synIRC.net will scan your IP for open proxies upon connection to our 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- services.  You must be 18 or older to connect and chat on our services, or 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- have parental consent. synIRC.net and its affiliates are not responsible 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- for any bodily or mental harm that could possibly come from using its 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- services. synIRC.net is not responsible for any data received or sent 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- out to our clients. By connecting, you consent to have logging of your 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- conversations done by other clients and are also bound to the rules and 
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- regulations that can be found at http://www.synirc.net/charter/
+06:57:00 :euclid.ie.eu.synirc.net 372 robophiz :- 
+06:57:00 :euclid.ie.eu.synirc.net 376 robophiz :End of /MOTD command.
+06:57:01 :euclid.ie.eu.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || Feminist*HATE_this PenisTrick || Canned Horse Meat (Whale Flavor)
+06:57:01 :euclid.ie.eu.synirc.net 333 robophiz #phiz Homie_in_a_geod 1647987277
+06:57:01 :euclid.ie.eu.synirc.net 353 robophiz @ #phiz :robophiz NORG ehn HellaBrad alansmithee_ bonegar mpg the`shima dreddybajs Selfie_Dad Melber greatest_gamer Homie_in_a_geod coaxmetal scoop_jackson eric wild_ape-style_creature kuf ~het djcozmik 
+06:57:01 :euclid.ie.eu.synirc.net 366 robophiz #phiz :End of /NAMES list.

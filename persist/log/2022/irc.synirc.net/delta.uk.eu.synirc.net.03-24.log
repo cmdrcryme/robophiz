@@ -1,0 +1,69 @@
+09:05:16 :delta.uk.eu.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+09:05:16 :delta.uk.eu.synirc.net 002 robophiz :Your host is delta.uk.eu.synirc.net, running version UnrealIRCd-4.2.4.1
+09:05:16 :delta.uk.eu.synirc.net 003 robophiz :This server was created Wed Feb 16 2022 at 01:49:18 UTC
+09:05:16 :delta.uk.eu.synirc.net 004 robophiz delta.uk.eu.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+09:05:16 :delta.uk.eu.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+09:05:16 :delta.uk.eu.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+09:05:16 :delta.uk.eu.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+09:05:16 :delta.uk.eu.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+09:05:16 :delta.uk.eu.synirc.net 251 robophiz :There are 25 users and 1815 invisible on 16 servers
+09:05:16 :delta.uk.eu.synirc.net 252 robophiz 20 :operator(s) online
+09:05:16 :delta.uk.eu.synirc.net 254 robophiz 955 :channels formed
+09:05:16 :delta.uk.eu.synirc.net 255 robophiz :I have 143 clients and 0 servers
+09:05:16 :delta.uk.eu.synirc.net 265 robophiz 143 153 :Current local users 143, max 153
+09:05:16 :delta.uk.eu.synirc.net 266 robophiz 1840 8248 :Current global users 1840, max 8248
+09:05:16 :delta.uk.eu.synirc.net 375 robophiz :- delta.uk.eu.synirc.net Message of the Day - 
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- 16/2/2022 3:25
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-            ######  ##    ## ##    ## #### ########   ######  
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-            ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ## 
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-            ##         ####   ####  ##  ##  ##     ## ##       
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-             ######     ##    ## ## ##  ##  ########  ##       
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-                  ##    ##    ##  ####  ##  ##   ##   ##       
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-            ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-             ######     ##    ##    ## #### ##     ##  ######  
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- 
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-          |                                                    |
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-          |                                                    |
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-          | Welcome on omega.uk.eu.synirc.net                  |
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-          | Available ports: 6660-6669                         |
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-          | SSL ports: 6697, 7001                              |
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-          |                                                    |
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-          | Server Admin: Jordan jordan@synirc.net> 	      |
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-          |                                                    |
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :-          |                                                    |
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- 
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- DISCLAIMER:
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- 
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- synIRC.net will scan your IP for open proxies upon connection to our 
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- services.  You must be 18 or older to connect and chat on our services, or 
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- have parental consent. synIRC.net and its affiliates are not responsible 
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- for any bodily or mental harm that could possibly come from using its 
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- services. synIRC.net is not responsible for any data received or sent 
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- out to our clients. By connecting, you consent to have logging of your 
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- conversations done by other clients and are also bound to the rules and 
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- regulations that can be found at http://www.synirc.net/charter/
+09:05:16 :delta.uk.eu.synirc.net 372 robophiz :- 
+09:05:16 :delta.uk.eu.synirc.net 376 robophiz :End of /MOTD command.
+09:05:17 :delta.uk.eu.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || Feminist*HATE_this PenisTrick || Canned Horse Meat (Whale Flavor)
+09:05:17 :delta.uk.eu.synirc.net 333 robophiz #phiz Homie_in_a_geod 1647987277
+09:05:17 :delta.uk.eu.synirc.net 353 robophiz @ #phiz :robophiz NORG antiracist_baby ehn alansmithee_ bonegar mpg the`shima dreddybajs Selfie_Dad Melber greatest_gamer Homie_in_a_geod coaxmetal djcozmik ~het kuf wild_ape-style_creature eric scoop_jackson 
+09:05:17 :delta.uk.eu.synirc.net 366 robophiz #phiz :End of /NAMES list.
+21:55:55 :delta.uk.eu.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+21:55:55 :delta.uk.eu.synirc.net 002 robophiz :Your host is delta.uk.eu.synirc.net, running version UnrealIRCd-4.2.4.1
+21:55:55 :delta.uk.eu.synirc.net 003 robophiz :This server was created Wed Feb 16 2022 at 01:49:18 UTC
+21:55:55 :delta.uk.eu.synirc.net 004 robophiz delta.uk.eu.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+21:55:55 :delta.uk.eu.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+21:55:55 :delta.uk.eu.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+21:55:55 :delta.uk.eu.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+21:55:55 :delta.uk.eu.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+21:55:55 :delta.uk.eu.synirc.net 251 robophiz :There are 25 users and 1857 invisible on 16 servers
+21:55:55 :delta.uk.eu.synirc.net 252 robophiz 20 :operator(s) online
+21:55:55 :delta.uk.eu.synirc.net 254 robophiz 963 :channels formed
+21:55:55 :delta.uk.eu.synirc.net 255 robophiz :I have 140 clients and 0 servers
+21:55:55 :delta.uk.eu.synirc.net 265 robophiz 140 153 :Current local users 140, max 153
+21:55:55 :delta.uk.eu.synirc.net 266 robophiz 1882 8248 :Current global users 1882, max 8248
+21:55:55 :delta.uk.eu.synirc.net 375 robophiz :- delta.uk.eu.synirc.net Message of the Day - 
+21:55:55 :delta.uk.eu.synirc.net 372 robophiz :- 16/2/2022 3:25
+21:55:55 :delta.uk.eu.synirc.net 372 robophiz :-            ######  ##    ## ##    ## #### ########   ######  

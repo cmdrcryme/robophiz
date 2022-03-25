@@ -1,0 +1,107 @@
+00:04:46 :avarice.ny.us.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+00:04:46 :avarice.ny.us.synirc.net 002 robophiz :Your host is avarice.ny.us.synirc.net, running version UnrealIRCd-4.2.4.1
+00:04:46 :avarice.ny.us.synirc.net 003 robophiz :This server was created Mon Nov 22 2021 at 01:20:17 UTC
+00:04:46 :avarice.ny.us.synirc.net 004 robophiz avarice.ny.us.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+00:04:46 :avarice.ny.us.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+00:04:46 :avarice.ny.us.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+00:04:46 :avarice.ny.us.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+00:04:46 :avarice.ny.us.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+00:04:46 :avarice.ny.us.synirc.net 251 robophiz :There are 25 users and 1834 invisible on 16 servers
+00:04:46 :avarice.ny.us.synirc.net 252 robophiz 20 :operator(s) online
+00:04:46 :avarice.ny.us.synirc.net 254 robophiz 965 :channels formed
+00:04:46 :avarice.ny.us.synirc.net 255 robophiz :I have 316 clients and 0 servers
+00:04:46 :avarice.ny.us.synirc.net 265 robophiz 316 348 :Current local users 316, max 348
+00:04:46 :avarice.ny.us.synirc.net 266 robophiz 1859 8248 :Current global users 1859, max 8248
+00:04:46 :avarice.ny.us.synirc.net 375 robophiz :- avarice.ny.us.synirc.net Message of the Day - 
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- 22/11/2021 20:47
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :-                           ___ ____   ____
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :-           ___ _   _ _ __ |_ _|  _ \ / ___|
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :-          / __| | | | '_ \ | || |_) | |
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :-          \__ \ |_| | | | || ||  _ <| |___
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :-          |___/\__, |_| |_|___|_| \_\\____|
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :-               |___/    New York, NY, USA
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- 
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- Server     : avarice.ny.us.synirc.net
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- Ports      : 6660-6669, 7000
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- SSL Ports  : 6697, 7001
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- Admin      : Sony (sony@synirc.net)
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- 
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- Please visit us online at http://www.synirc.net/
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- For network related assistance please join #help
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- For network wide bans and other issues email helpcom@synirc.net
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- 
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- synIRC.net will scan your IP for open proxies upon connection to our
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- services. You must be 18 or older to connect and chat on our services, or
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- have parental consent. synIRC.net and its affiliates are not responsible
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- for any bodily or mental harm that could possibly come from using its
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- services. synIRC.net is not responsible for any data received or sent
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- out to our clients. By connecting, you consent to have logging of your
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- conversations done by other clients and are also bound to the rules and
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- regulations that can be found at http://www.synirc.net/charter/
+00:04:46 :avarice.ny.us.synirc.net 372 robophiz :- 
+00:04:46 :avarice.ny.us.synirc.net 376 robophiz :End of /MOTD command.
+00:04:47 :avarice.ny.us.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || Feminist*HATE_this PenisTrick || Canned Horse Meat (Whale Flavor)
+00:04:47 :avarice.ny.us.synirc.net 333 robophiz #phiz Homie_in_a_geod 1647987277
+00:04:47 :avarice.ny.us.synirc.net 353 robophiz @ #phiz :robophiz ehn NORG ajj2 HellaBrad Nude_Riker antiracist_baby alansmithee_ bonegar the`shima dreddybajs Selfie_Dad Melber greatest_gamer Homie_in_a_geod coaxmetal scoop_jackson eric wild_ape-style_creature kuf ~het djcozmik 
+00:04:47 :avarice.ny.us.synirc.net 366 robophiz #phiz :End of /NAMES list.
+02:13:14 :avarice.ny.us.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+02:13:14 :avarice.ny.us.synirc.net 002 robophiz :Your host is avarice.ny.us.synirc.net, running version UnrealIRCd-4.2.4.1
+02:13:14 :avarice.ny.us.synirc.net 003 robophiz :This server was created Mon Nov 22 2021 at 01:20:17 UTC
+02:13:14 :avarice.ny.us.synirc.net 004 robophiz avarice.ny.us.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+02:13:14 :avarice.ny.us.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+02:13:14 :avarice.ny.us.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+02:13:14 :avarice.ny.us.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+02:13:14 :avarice.ny.us.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+02:13:14 :avarice.ny.us.synirc.net 251 robophiz :There are 25 users and 1834 invisible on 16 servers
+02:13:14 :avarice.ny.us.synirc.net 252 robophiz 20 :operator(s) online
+02:13:14 :avarice.ny.us.synirc.net 254 robophiz 966 :channels formed
+02:13:14 :avarice.ny.us.synirc.net 255 robophiz :I have 319 clients and 0 servers
+02:13:14 :avarice.ny.us.synirc.net 265 robophiz 319 348 :Current local users 319, max 348
+02:13:14 :avarice.ny.us.synirc.net 266 robophiz 1859 8248 :Current global users 1859, max 8248
+02:13:14 :avarice.ny.us.synirc.net 375 robophiz :- avarice.ny.us.synirc.net Message of the Day - 
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- 22/11/2021 20:47
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :-                           ___ ____   ____
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :-           ___ _   _ _ __ |_ _|  _ \ / ___|
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :-          / __| | | | '_ \ | || |_) | |
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :-          \__ \ |_| | | | || ||  _ <| |___
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :-          |___/\__, |_| |_|___|_| \_\\____|
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :-               |___/    New York, NY, USA
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- 
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- Server     : avarice.ny.us.synirc.net
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- Ports      : 6660-6669, 7000
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- SSL Ports  : 6697, 7001
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- Admin      : Sony (sony@synirc.net)
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- 
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- Please visit us online at http://www.synirc.net/
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- For network related assistance please join #help
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- For network wide bans and other issues email helpcom@synirc.net
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- 
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- synIRC.net will scan your IP for open proxies upon connection to our
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- services. You must be 18 or older to connect and chat on our services, or
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- have parental consent. synIRC.net and its affiliates are not responsible
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- for any bodily or mental harm that could possibly come from using its
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- services. synIRC.net is not responsible for any data received or sent
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- out to our clients. By connecting, you consent to have logging of your
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- conversations done by other clients and are also bound to the rules and
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- regulations that can be found at http://www.synirc.net/charter/
+02:13:14 :avarice.ny.us.synirc.net 372 robophiz :- 
+02:13:14 :avarice.ny.us.synirc.net 376 robophiz :End of /MOTD command.
+02:13:15 :avarice.ny.us.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || Feminist*HATE_this PenisTrick || Canned Horse Meat (Whale Flavor)
+02:13:15 :avarice.ny.us.synirc.net 333 robophiz #phiz Homie_in_a_geod 1647987277
+02:13:15 :avarice.ny.us.synirc.net 353 robophiz @ #phiz :robophiz djack mikev ajj2 mpg ehn NORG HellaBrad Nude_Riker alansmithee_ bonegar the`shima dreddybajs Selfie_Dad Melber greatest_gamer Homie_in_a_geod coaxmetal scoop_jackson eric wild_ape-style_creature kuf ~het djcozmik 
+02:13:15 :avarice.ny.us.synirc.net 366 robophiz #phiz :End of /NAMES list.
+15:02:40 :avarice.ny.us.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+15:02:40 :avarice.ny.us.synirc.net 002 robophiz :Your host is avarice.ny.us.synirc.net, running version UnrealIRCd-4.2.4.1
+15:02:40 :avarice.ny.us.synirc.net 003 robophiz :This server was created Mon Nov 22 2021 at 01:20:17 UTC
+15:02:40 :avarice.ny.us.synirc.net 004 robophiz avarice.ny.us.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+15:02:40 :avarice.ny.us.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+15:02:40 :avarice.ny.us.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+15:02:40 :avarice.ny.us.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+15:02:40 :avarice.ny.us.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+15:02:40 :avarice.ny.us.synirc.net 251 robophiz :There are 25 users and 1837 invisible on 16 servers
+15:02:40 :avarice.ny.us.synirc.net 252 robophiz 20 :operator(s) online
+15:02:40 :avarice.ny.us.synirc.net 253 robophiz 1 :unknown connection(s)
+15:02:40 :avarice.ny.us.synirc.net 254 robophiz 965 :channels formed
+15:02:40 :avarice.ny.us.synirc.net 255 robophiz :I have 316 clients and 0 servers
+15:02:40 :avarice.ny.us.synirc.net 265 robophiz 316 348 :Current local users 316, max 348
+15:02:40 :avarice.ny.us.synirc.net 266 robophiz 1862 8248 :Current global users 1862, max 8248

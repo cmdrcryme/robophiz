@@ -1,0 +1,105 @@
+02:33:21 :hades.de.eu.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+02:33:21 :hades.de.eu.synirc.net 002 robophiz :Your host is hades.de.eu.synirc.net, running version UnrealIRCd-4.2.4.1
+02:33:21 :hades.de.eu.synirc.net 003 robophiz :This server was created Mon Jan 24 2022 at 00:59:14 CET
+02:33:21 :hades.de.eu.synirc.net 004 robophiz hades.de.eu.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+02:33:21 :hades.de.eu.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+02:33:21 :hades.de.eu.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+02:33:21 :hades.de.eu.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+02:33:21 :hades.de.eu.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+02:33:21 :hades.de.eu.synirc.net 251 robophiz :There are 25 users and 1858 invisible on 15 servers
+02:33:21 :hades.de.eu.synirc.net 252 robophiz 20 :operator(s) online
+02:33:21 :hades.de.eu.synirc.net 254 robophiz 971 :channels formed
+02:33:21 :hades.de.eu.synirc.net 255 robophiz :I have 197 clients and 0 servers
+02:33:21 :hades.de.eu.synirc.net 265 robophiz 197 228 :Current local users 197, max 228
+02:33:21 :hades.de.eu.synirc.net 266 robophiz 1883 8248 :Current global users 1883, max 8248
+02:33:21 :hades.de.eu.synirc.net 375 robophiz :- hades.de.eu.synirc.net Message of the Day - 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- 24/1/2022 1:22
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-             ######  ##    ## ##    ## #### ########   ######  
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-            ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ## 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-            ##         ####   ####  ##  ##  ##     ## ##       
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-             ######     ##    ## ## ##  ##  ########  ##       
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-                  ##    ##    ##  ####  ##  ##   ##   ##       
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-            ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-             ######     ##    ##    ## #### ##     ##  ######  
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-          | Welcome on hades.de.eu.synirc.net                  |
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-          | Available ports: 6660-6669, 7000                   |
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-          | SSL ports: 6697, 7001                              |
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-          | Server Admin: Aden Aden@synIRC.net                 |
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- DISCLAIMER:
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- synIRC.net will scan your IP for open proxies upon connection to our 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- services.  You must be 18 or older to connect and chat on our services, or 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- have parental consent. synIRC.net and its affiliates are not responsible 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- for any bodily or mental harm that could possibly come from using its 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- services. synIRC.net is not responsible for any data received or sent 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- out to our clients. By connecting, you consent to have logging of your 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- conversations done by other clients and are also bound to the rules and 
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- regulations that can be found at http://www.synirc.net/charter/
+02:33:21 :hades.de.eu.synirc.net 372 robophiz :- 
+02:33:21 :hades.de.eu.synirc.net 376 robophiz :End of /MOTD command.
+02:33:22 :hades.de.eu.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || According to evidence admitted at the board of rights hearing, "Snorlax" is a Pokémon creature known as "The Sleeping Pokémon." || Black lives matter. Pooplunch stands in solidarity with the Black community.
+02:33:22 :hades.de.eu.synirc.net 333 robophiz #phiz shrimp1989dspinfo 1645985449
+02:33:22 :hades.de.eu.synirc.net 353 robophiz @ #phiz :robophiz ehn mpg bigg_tokes ajj ajj2 Nude_Riker the_tasteful_nerd Melber bonegar alansmithee_ dreddybajs greatest_gamer Homie_in_a_geod coaxmetal mikev djcozmik ~het kuf shrimp1989dspinfo eric scoop_jackson 
+02:33:22 :hades.de.eu.synirc.net 366 robophiz #phiz :End of /NAMES list.
+17:31:26 :hades.de.eu.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+17:31:26 :hades.de.eu.synirc.net 002 robophiz :Your host is hades.de.eu.synirc.net, running version UnrealIRCd-4.2.4.1
+17:31:26 :hades.de.eu.synirc.net 003 robophiz :This server was created Mon Jan 24 2022 at 00:59:14 CET
+17:31:26 :hades.de.eu.synirc.net 004 robophiz hades.de.eu.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+17:31:26 :hades.de.eu.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+17:31:26 :hades.de.eu.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+17:31:26 :hades.de.eu.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+17:31:26 :hades.de.eu.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+17:31:26 :hades.de.eu.synirc.net 251 robophiz :There are 25 users and 1872 invisible on 15 servers
+17:31:26 :hades.de.eu.synirc.net 252 robophiz 20 :operator(s) online
+17:31:26 :hades.de.eu.synirc.net 254 robophiz 980 :channels formed
+17:31:26 :hades.de.eu.synirc.net 255 robophiz :I have 193 clients and 0 servers
+17:31:26 :hades.de.eu.synirc.net 265 robophiz 193 228 :Current local users 193, max 228
+17:31:26 :hades.de.eu.synirc.net 266 robophiz 1897 8248 :Current global users 1897, max 8248
+17:31:26 :hades.de.eu.synirc.net 375 robophiz :- hades.de.eu.synirc.net Message of the Day - 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- 24/1/2022 1:22
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-             ######  ##    ## ##    ## #### ########   ######  
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-            ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ## 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-            ##         ####   ####  ##  ##  ##     ## ##       
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-             ######     ##    ## ## ##  ##  ########  ##       
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-                  ##    ##    ##  ####  ##  ##   ##   ##       
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-            ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-             ######     ##    ##    ## #### ##     ##  ######  
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-          | Welcome on hades.de.eu.synirc.net                  |
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-          | Available ports: 6660-6669, 7000                   |
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-          | SSL ports: 6697, 7001                              |
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-          | Server Admin: Aden Aden@synIRC.net                 |
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- DISCLAIMER:
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- synIRC.net will scan your IP for open proxies upon connection to our 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- services.  You must be 18 or older to connect and chat on our services, or 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- have parental consent. synIRC.net and its affiliates are not responsible 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- for any bodily or mental harm that could possibly come from using its 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- services. synIRC.net is not responsible for any data received or sent 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- out to our clients. By connecting, you consent to have logging of your 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- conversations done by other clients and are also bound to the rules and 
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- regulations that can be found at http://www.synirc.net/charter/
+17:31:26 :hades.de.eu.synirc.net 372 robophiz :- 
+17:31:26 :hades.de.eu.synirc.net 376 robophiz :End of /MOTD command.
+17:31:27 :hades.de.eu.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || According to evidence admitted at the board of rights hearing, "Snorlax" is a Pokémon creature known as "The Sleeping Pokémon." || Black lives matter. Pooplunch stands in solidarity with the Black community.
+17:31:27 :hades.de.eu.synirc.net 333 robophiz #phiz shrimp1989dspinfo 1645985449
+17:31:27 :hades.de.eu.synirc.net 353 robophiz @ #phiz :robophiz ehn Nude_Riker bonegar this_fellow_kermit NORG mpg ajj ajj2 the_tasteful_nerd Melber alansmithee_ dreddybajs greatest_gamer Homie_in_a_geod coaxmetal mikev djcozmik ~het kuf shrimp1989dspinfo eric scoop_jackson 

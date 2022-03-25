@@ -1,0 +1,71 @@
+13:59:08 :monster.va.us.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+13:59:08 :monster.va.us.synirc.net 002 robophiz :Your host is monster.va.us.synirc.net, running version Unreal3.2.10.7
+13:59:08 :monster.va.us.synirc.net 003 robophiz :This server was created Sat Oct 21 2017 at 03:03:29 UTC
+13:59:08 :monster.va.us.synirc.net 004 robophiz monster.va.us.synirc.net Unreal3.2.10.7 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+13:59:08 :monster.va.us.synirc.net 005 robophiz UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+13:59:08 :monster.va.us.synirc.net 005 robophiz WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+13:59:08 :monster.va.us.synirc.net 005 robophiz EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS :are supported by this server
+13:59:08 :monster.va.us.synirc.net 251 robophiz :There are 25 users and 1813 invisible on 15 servers
+13:59:08 :monster.va.us.synirc.net 252 robophiz 19 :operator(s) online
+13:59:08 :monster.va.us.synirc.net 254 robophiz 962 :channels formed
+13:59:08 :monster.va.us.synirc.net 255 robophiz :I have 151 clients and 0 servers
+13:59:08 :monster.va.us.synirc.net 265 robophiz 151 1279 :Current local users 151, max 1279
+13:59:08 :monster.va.us.synirc.net 266 robophiz 1838 8248 :Current global users 1838, max 8248
+13:59:08 :monster.va.us.synirc.net 375 robophiz :- monster.va.us.synirc.net Message of the Day - 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- 23/10/2017 2:09
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- This is the short MOTD. To view the complete MOTD type /motd
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                               .---. .---. 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                              :     : o   :    me want cookie!
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                          _..-:   o :     :-.._    /
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                      .-''  '  `---' `---' "   ``-.    
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                    .'   "   '  "  .    "  . '  "  `.  
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                   :   '.---.,,.,...,.,.,.,..---.  ' ;
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                   `. " `.                     .' " .'
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                    `.  '`.                   .' ' .'
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                     `.    `-._           _.-' "  .'  .----.
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                       `. "    '"--...--"'  . ' .'  .'  o   `.
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                       .'`-._'    " .     " _.-'`. :       o  :
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                     .'      ```--.....--'''    ' `:_ o       :
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                   .'    "     '         "     "   ; `.;";";";'
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                  ;         '       "       '     . ; .' ; ; ;
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                 ;     '         '       '   "    .'      .-'
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                 '  "     "   '      "           "    _.-'
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                                                                       
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-             ######  ##    ## ##    ## #### ########   ######  
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-            ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ## 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-            ##         ####   ####  ##  ##  ##     ## ##       
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-             ######     ##    ## ## ##  ##  ########  ##       
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-                  ##    ##    ##  ####  ##  ##   ##   ##       
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-            ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-             ######     ##    ##    ## #### ##     ##  ######  
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-          |                                                    |
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-          |                                                    |
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-          | Welcome on monster.va.us.synirc.net                |
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-          | Available ports: 6660-6669                         |
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-          | SSL ports: 6697, 7001                              |
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-          |                                                    |
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-          | Server Admin: jon <jon@synirc.net>                 |
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-          | Co-Admin    : Jake <jake@synirc.net>               |
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-          |                                                    |
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+13:59:08 :monster.va.us.synirc.net 372 robophiz :-          |                                                    |
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- DISCLAIMER:
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- synIRC.net will scan your IP for open proxies upon connection to our 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- services.  You must be 18 or older to connect and chat on our services, or 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- have parental consent. synIRC.net and its affiliates are not responsible 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- for any bodily or mental harm that could possibly come from using its 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- services. synIRC.net is not responsible for any data received or sent 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- out to our clients. By connecting, you consent to have logging of your 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- conversations done by other clients and are also bound to the rules and 
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- regulations that can be found at http://www.synirc.net/charter/
+13:59:08 :monster.va.us.synirc.net 372 robophiz :- 
+13:59:08 :monster.va.us.synirc.net 376 robophiz :End of /MOTD command.
+13:59:09 :monster.va.us.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || According to evidence admitted at the board of rights hearing, "Snorlax" is a Pokémon creature known as "The Sleeping Pokémon." || Black lives matter. Pooplunch stands in solidarity with the Black community.
+13:59:09 :monster.va.us.synirc.net 333 robophiz #phiz shrimp1989dspinfo 1645985449
+13:59:09 :monster.va.us.synirc.net 353 robophiz @ #phiz :robophiz Disco_Pope mpg Nude_Riker bonegar NORG the`shima alansmithee_ the_tasteful_nerd Melber dreddybajs greatest_gamer Homie_in_a_geod coaxmetal mikev scoop_jackson eric shrimp1989dspinfo LilSwede91 ~het djcozmik 

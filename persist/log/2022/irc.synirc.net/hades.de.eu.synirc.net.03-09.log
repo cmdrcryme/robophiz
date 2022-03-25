@@ -1,0 +1,70 @@
+14:28:56 :hades.de.eu.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+14:28:56 :hades.de.eu.synirc.net 002 robophiz :Your host is hades.de.eu.synirc.net, running version UnrealIRCd-4.2.4.1
+14:28:56 :hades.de.eu.synirc.net 003 robophiz :This server was created Mon Jan 24 2022 at 00:59:14 CET
+14:28:56 :hades.de.eu.synirc.net 004 robophiz hades.de.eu.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+14:28:56 :hades.de.eu.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+14:28:56 :hades.de.eu.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+14:28:56 :hades.de.eu.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+14:28:56 :hades.de.eu.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+14:28:56 :hades.de.eu.synirc.net 251 robophiz :There are 25 users and 1798 invisible on 15 servers
+14:28:56 :hades.de.eu.synirc.net 252 robophiz 19 :operator(s) online
+14:28:56 :hades.de.eu.synirc.net 254 robophiz 957 :channels formed
+14:28:56 :hades.de.eu.synirc.net 255 robophiz :I have 194 clients and 0 servers
+14:28:56 :hades.de.eu.synirc.net 265 robophiz 194 228 :Current local users 194, max 228
+14:28:56 :hades.de.eu.synirc.net 266 robophiz 1823 8248 :Current global users 1823, max 8248
+14:28:56 :hades.de.eu.synirc.net 375 robophiz :- hades.de.eu.synirc.net Message of the Day - 
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :- 24/1/2022 1:22
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :- 
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-             ######  ##    ## ##    ## #### ########   ######  
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-            ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ## 
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-            ##         ####   ####  ##  ##  ##     ## ##       
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-             ######     ##    ## ## ##  ##  ########  ##       
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-                  ##    ##    ##  ####  ##  ##   ##   ##       
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-            ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-             ######     ##    ##    ## #### ##     ##  ######  
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :- 
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-          | Welcome on hades.de.eu.synirc.net                  |
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-          | Available ports: 6660-6669, 7000                   |
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-          | SSL ports: 6697, 7001                              |
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-          | Server Admin: Aden Aden@synIRC.net                 |
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+14:28:56 :hades.de.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+18:45:26 :hades.de.eu.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+18:45:26 :hades.de.eu.synirc.net 002 robophiz :Your host is hades.de.eu.synirc.net, running version UnrealIRCd-4.2.4.1
+18:45:26 :hades.de.eu.synirc.net 003 robophiz :This server was created Mon Jan 24 2022 at 00:59:14 CET
+18:45:26 :hades.de.eu.synirc.net 004 robophiz hades.de.eu.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+18:45:26 :hades.de.eu.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+18:45:26 :hades.de.eu.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+18:45:26 :hades.de.eu.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+18:45:26 :hades.de.eu.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+18:45:26 :hades.de.eu.synirc.net 251 robophiz :There are 25 users and 1839 invisible on 15 servers
+18:45:26 :hades.de.eu.synirc.net 252 robophiz 19 :operator(s) online
+18:45:26 :hades.de.eu.synirc.net 254 robophiz 965 :channels formed
+18:45:26 :hades.de.eu.synirc.net 255 robophiz :I have 202 clients and 0 servers
+18:45:26 :hades.de.eu.synirc.net 265 robophiz 202 228 :Current local users 202, max 228
+18:45:26 :hades.de.eu.synirc.net 266 robophiz 1864 8248 :Current global users 1864, max 8248
+18:45:26 :hades.de.eu.synirc.net 375 robophiz :- hades.de.eu.synirc.net Message of the Day - 
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :- 24/1/2022 1:22
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :- 
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-             ######  ##    ## ##    ## #### ########   ######  
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-            ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ## 
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-            ##         ####   ####  ##  ##  ##     ## ##       
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-             ######     ##    ## ## ##  ##  ########  ##       
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-                  ##    ##    ##  ####  ##  ##   ##   ##       
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-            ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-             ######     ##    ##    ## #### ##     ##  ######  
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :- 
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-          | Welcome on hades.de.eu.synirc.net                  |
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-          | Available ports: 6660-6669, 7000                   |
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-          | SSL ports: 6697, 7001                              |
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-          | Server Admin: Aden Aden@synIRC.net                 |
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-          |                                                    |
+18:45:26 :hades.de.eu.synirc.net 372 robophiz :-        --+----------------------------------------------------+--

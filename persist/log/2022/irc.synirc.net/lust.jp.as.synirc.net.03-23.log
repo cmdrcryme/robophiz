@@ -1,0 +1,58 @@
+05:20:57 :lust.jp.as.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+05:20:57 :lust.jp.as.synirc.net 002 robophiz :Your host is lust.jp.as.synirc.net, running version UnrealIRCd-4.2.4.1
+05:20:57 :lust.jp.as.synirc.net 003 robophiz :This server was created Sat Nov 20 2021 at 00:34:27 UTC
+05:20:57 :lust.jp.as.synirc.net 004 robophiz lust.jp.as.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+05:20:57 :lust.jp.as.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+05:20:57 :lust.jp.as.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+05:20:57 :lust.jp.as.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+05:20:57 :lust.jp.as.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+05:20:57 :lust.jp.as.synirc.net 251 robophiz :There are 25 users and 1810 invisible on 16 servers
+05:20:57 :lust.jp.as.synirc.net 252 robophiz 20 :operator(s) online
+05:20:57 :lust.jp.as.synirc.net 253 robophiz 1 :unknown connection(s)
+05:20:57 :lust.jp.as.synirc.net 254 robophiz 961 :channels formed
+05:20:57 :lust.jp.as.synirc.net 255 robophiz :I have 121 clients and 0 servers
+05:20:57 :lust.jp.as.synirc.net 265 robophiz 121 128 :Current local users 121, max 128
+05:20:57 :lust.jp.as.synirc.net 266 robophiz 1835 8248 :Current global users 1835, max 8248
+05:20:57 :lust.jp.as.synirc.net 375 robophiz :- lust.jp.as.synirc.net Message of the Day - 
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :- 9/12/2021 2:44
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-              ######  ##    ## ##    ## #### ########   ######
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-             ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ##
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-             ##         ####   ####  ##  ##  ##     ## ##
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-              ######     ##    ## ## ##  ##  ########  ##
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-                   ##    ##    ##  ####  ##  ##   ##   ##
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-             ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-              ######     ##    ##    ## #### ##     ##  ######
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :- 
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           |                                                    |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-         --+----------------------------------------------------+--
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           |                                                    |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           | Welcome to lust.jp.as.synirc.net                   |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           | Available ports: 6660-6669                         |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           | SSL ports: 6697, 7001                              |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           |                                                    |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           | Server Administrator: Hex <me@hexick.com>          |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           | Co-Admin: SATS <sats@synirc.net>                   |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           |                                                    |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           | Website: https://synirc.net/                       |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           | Support channel: #help                             |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           | General nexus channel: #synirc                     |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           |                                                    |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-         --+----------------------------------------------------+--
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-           |                                                    |
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :- 
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-  DISCLAIMER:
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :- 
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-  synIRC.net will scan your IP for open proxies upon connection to our
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-  services.  You must be 18 or older to connect and chat on our services, or
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-  have parental consent. synIRC.net and its affiliates are not responsible
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-  for any bodily or mental harm that could possibly come from using its
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-  services. synIRC.net is not responsible for any data received or sent
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-  out to our clients. By connecting, you consent to have logging of your
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-  conversations done by other clients and are also bound to the rules and
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :-  regulations that can be found at http://www.synirc.net/charter/
+05:20:57 :lust.jp.as.synirc.net 372 robophiz :- 
+05:20:57 :lust.jp.as.synirc.net 376 robophiz :End of /MOTD command.
+05:20:59 :lust.jp.as.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || Feminist*HATE_this PenisTrick || Canned Horse Meat (Whale Flavor)
+05:20:59 :lust.jp.as.synirc.net 333 robophiz #phiz Homie_in_a_geod 1647987277
+05:20:59 :lust.jp.as.synirc.net 353 robophiz @ #phiz :robophiz nutzo_da_fuccnutt NORG ehn ajj2 HellaBrad alansmithee_ bonegar mpg the`shima dreddybajs Selfie_Dad Melber greatest_gamer Homie_in_a_geod coaxmetal scoop_jackson eric wild_ape-style_creature djcozmik ~het kuf 
+05:20:59 :lust.jp.as.synirc.net 366 robophiz #phiz :End of /NAMES list.

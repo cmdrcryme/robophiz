@@ -1,0 +1,41 @@
+{
+  "connections":
+  {
+    "local irc":
+    {
+      "server": "irc.synirc.net",
+      "nick": "robophiz",
+      "channels": ["#phiz"],
+      "user": "robophiz",
+      "realname": "Michael Balls Penis",
+      "nickserv_password": "QL-Az9_7s2_yjTstjA3P"
+    }
+  },
+  "prefix": ".",
+  "disabled_plugins": [],
+  "disabled_commands": [],
+  "acls": {},
+  "api_keys": {
+     "twitter":
+    {"consumer": "0meQW0F8Ik8BfDXrkysFLanmS", 
+     "consumer_secret": "biOOrBWuJwgPmL1YF6T0IuA8pK46KbtXKwEHWeaoDm3FLVMaER",
+     "access": "1497252120751394825-LeM2OP7Njz0UMLBkjRxoDpcBR77MEv", 
+     "access_secret": "pugVnLK3bKHtb7cI8l4sWI3BfvU7CRTnxrRdNa0H3NSSH"},
+    "openweather": "c5e88d67fff4497cadab09610c166452",
+    "wolframalpha": "G66WEA-QG6UAWHQRL",
+    "google": "AIzaSyBk_Qbb_7sAKy9C6545HInsyX-qlI6bdXU",
+    "lastfm": "1755b10859fb8a386f64316e95b93737"
+  },
+  "censored_strings":
+  [
+    "DCC SEND",
+    "1nj3ct",
+    "thewrestlinggame",
+    "startkeylogger",
+    "hybux",
+    "\\0",
+    "\\x01",
+    "!coz",
+    "!tell /x"
+  ]
+}

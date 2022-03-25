@@ -1,0 +1,77 @@
+02:41:15 :logik.ca.us.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+02:41:15 :logik.ca.us.synirc.net 002 robophiz :Your host is logik.ca.us.synirc.net, running version UnrealIRCd-4.2.4.1
+02:41:15 :logik.ca.us.synirc.net 003 robophiz :This server was created Tue Jan 5 2021 at 23:38:51 UTC
+02:41:15 :logik.ca.us.synirc.net 004 robophiz logik.ca.us.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+02:41:15 :logik.ca.us.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+02:41:15 :logik.ca.us.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+02:41:15 :logik.ca.us.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+02:41:15 :logik.ca.us.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+02:41:15 :logik.ca.us.synirc.net 251 robophiz :There are 25 users and 1832 invisible on 16 servers
+02:41:15 :logik.ca.us.synirc.net 252 robophiz 20 :operator(s) online
+02:41:15 :logik.ca.us.synirc.net 254 robophiz 964 :channels formed
+02:41:15 :logik.ca.us.synirc.net 255 robophiz :I have 228 clients and 0 servers
+02:41:15 :logik.ca.us.synirc.net 265 robophiz 228 333 :Current local users 228, max 333
+02:41:15 :logik.ca.us.synirc.net 266 robophiz 1857 8248 :Current global users 1857, max 8248
+02:41:15 :logik.ca.us.synirc.net 375 robophiz :- logik.ca.us.synirc.net Message of the Day - 
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- 22/11/2021 21:24
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- 
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :-                         IIIII RRRRRR   CCCCC
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :-    sss  yy   yy nn nnn   III  RR   RR CC    C
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :-   s     yy   yy nnn  nn  III  RRRRRR  CC
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :-    sss   yyyyyy nn   nn  III  RR  RR  CC    C
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :-       s      yy nn   nn IIIII RR   RR  CCCCC
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :-    sss   yyyyy                 irc.synirc.net
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- 
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- 
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- Welcome to synIRC!
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- 
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- By connecting to synIRC, you agree to abide by the user
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- charter which can be found at https://synirc.net/charter
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- 
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- All servers run proxy scanners. By connecting, you consent
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- to having your IP address scanned for open proxies.
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- 
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- Please join #help if you require network assistance.
+02:41:15 :logik.ca.us.synirc.net 372 robophiz :- 
+02:41:15 :logik.ca.us.synirc.net 376 robophiz :End of /MOTD command.
+02:41:16 :logik.ca.us.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || Feminist*HATE_this PenisTrick || Canned Horse Meat (Whale Flavor)
+02:41:16 :logik.ca.us.synirc.net 333 robophiz #phiz Homie_in_a_geod 1647987277
+02:41:16 :logik.ca.us.synirc.net 353 robophiz @ #phiz :robophiz mikev ehn HellaBrad Nude_Riker ajj2 alansmithee_ bonegar mpg the`shima dreddybajs Selfie_Dad Melber greatest_gamer Homie_in_a_geod coaxmetal scoop_jackson eric wild_ape-style_creature djcozmik ~het kuf 
+02:41:16 :logik.ca.us.synirc.net 366 robophiz #phiz :End of /NAMES list.
+15:29:39 :logik.ca.us.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+15:29:39 :logik.ca.us.synirc.net 002 robophiz :Your host is logik.ca.us.synirc.net, running version UnrealIRCd-4.2.4.1
+15:29:39 :logik.ca.us.synirc.net 003 robophiz :This server was created Tue Jan 5 2021 at 23:38:51 UTC
+15:29:39 :logik.ca.us.synirc.net 004 robophiz logik.ca.us.synirc.net UnrealIRCd-4.2.4.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+15:29:39 :logik.ca.us.synirc.net 005 robophiz AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:40 CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,tmTSOcaRrnqj HCN INVEX :are supported by this server
+15:29:39 :logik.ca.us.synirc.net 005 robophiz KICKLEN=307 KNOCK MAP MAXCHANNELS=40 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MODES=12 NAMESX NETWORK=synIRC NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 :are supported by this server
+15:29:39 :logik.ca.us.synirc.net 005 robophiz SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A :are supported by this server
+15:29:39 :logik.ca.us.synirc.net 396 robophiz B8C50673.F3C7BB78.33CA7D1E.IP :is now your displayed host
+15:29:39 :logik.ca.us.synirc.net 251 robophiz :There are 25 users and 1850 invisible on 16 servers
+15:29:39 :logik.ca.us.synirc.net 252 robophiz 20 :operator(s) online
+15:29:39 :logik.ca.us.synirc.net 254 robophiz 963 :channels formed
+15:29:39 :logik.ca.us.synirc.net 255 robophiz :I have 216 clients and 0 servers
+15:29:39 :logik.ca.us.synirc.net 265 robophiz 216 333 :Current local users 216, max 333
+15:29:39 :logik.ca.us.synirc.net 266 robophiz 1875 8248 :Current global users 1875, max 8248
+15:29:39 :logik.ca.us.synirc.net 375 robophiz :- logik.ca.us.synirc.net Message of the Day - 
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- 22/11/2021 21:24
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- 
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :-                         IIIII RRRRRR   CCCCC
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :-    sss  yy   yy nn nnn   III  RR   RR CC    C
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :-   s     yy   yy nnn  nn  III  RRRRRR  CC
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :-    sss   yyyyyy nn   nn  III  RR  RR  CC    C
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :-       s      yy nn   nn IIIII RR   RR  CCCCC
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :-    sss   yyyyy                 irc.synirc.net
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- 
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- 
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- Welcome to synIRC!
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- 
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- By connecting to synIRC, you agree to abide by the user
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- charter which can be found at https://synirc.net/charter
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- 
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- All servers run proxy scanners. By connecting, you consent
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- to having your IP address scanned for open proxies.
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- 
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- Please join #help if you require network assistance.
+15:29:39 :logik.ca.us.synirc.net 372 robophiz :- 
+15:29:39 :logik.ca.us.synirc.net 376 robophiz :End of /MOTD command.
+15:29:40 :logik.ca.us.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || Feminist*HATE_this PenisTrick || Canned Horse Meat (Whale Flavor)

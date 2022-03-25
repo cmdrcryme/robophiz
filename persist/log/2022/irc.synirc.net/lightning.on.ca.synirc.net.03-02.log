@@ -1,0 +1,99 @@
+10:26:25 :lightning.on.ca.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+10:26:25 :lightning.on.ca.synirc.net 002 robophiz :Your host is lightning.on.ca.synirc.net, running version Unreal3.2.10.7
+10:26:25 :lightning.on.ca.synirc.net 003 robophiz :This server was created Thu Jul 27 2017 at 02:50:42 UTC
+10:26:25 :lightning.on.ca.synirc.net 004 robophiz lightning.on.ca.synirc.net Unreal3.2.10.7 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+10:26:25 :lightning.on.ca.synirc.net 005 robophiz CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+10:26:25 :lightning.on.ca.synirc.net 005 robophiz MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+10:26:25 :lightning.on.ca.synirc.net 005 robophiz STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+10:26:25 :lightning.on.ca.synirc.net 251 robophiz :There are 25 users and 1827 invisible on 15 servers
+10:26:25 :lightning.on.ca.synirc.net 252 robophiz 20 :operator(s) online
+10:26:25 :lightning.on.ca.synirc.net 254 robophiz 968 :channels formed
+10:26:25 :lightning.on.ca.synirc.net 255 robophiz :I have 320 clients and 0 servers
+10:26:25 :lightning.on.ca.synirc.net 265 robophiz 320 1253 :Current local users 320, max 1253
+10:26:25 :lightning.on.ca.synirc.net 266 robophiz 1852 8248 :Current global users 1852, max 8248
+10:26:25 :lightning.on.ca.synirc.net 375 robophiz :- lightning.on.ca.synirc.net Message of the Day - 
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :- 27/7/2017 3:05
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-                                    ooooo ooooooooo.     .oooooo.   
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-                                    `888' `888   `Y88.  d8P'  `Y8b  
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-    .oooo.o oooo    ooo ooo. .oo.    888   888   .d88' 888          
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-   d88(  "8  `88.  .8'  `888P"Y88b   888   888ooo88P'  888          
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-   `"Y88b.    `88..8'    888   888   888   888`88b.    888          
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-   o.  )88b    `888'     888   888   888   888  `88b.  `88b    ooo  
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-   8""888P'     .8'     o888o o888o o888o o888o  o888o  `Y8bood8P'  
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-            .o..P'                                                  
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-            `Y8P'                                                   
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-                                                            .
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-                                                            |
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-                                                           < >
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-                                                            |
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-                                                          (^ ^)
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-                                                           `|`
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-                                ______                      |
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-                      .-,__,-. |""""""|                     |
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-                      | ]""[ | |""""""|       ,.,__         |
+10:26:25 :lightning.on.ca.synirc.net 372 robophiz :-                      | |""| | |""""""|     /`.     ` ;     |
+14:33:58 :lightning.on.ca.synirc.net 001 robophiz :Welcome to the synIRC IRC Network robophiz!~robophiz@73.129.45.114
+14:33:58 :lightning.on.ca.synirc.net 002 robophiz :Your host is lightning.on.ca.synirc.net, running version Unreal3.2.10.7
+14:33:58 :lightning.on.ca.synirc.net 003 robophiz :This server was created Thu Jul 27 2017 at 02:50:42 UTC
+14:33:58 :lightning.on.ca.synirc.net 004 robophiz lightning.on.ca.synirc.net Unreal3.2.10.7 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+14:33:58 :lightning.on.ca.synirc.net 005 robophiz CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+14:33:58 :lightning.on.ca.synirc.net 005 robophiz MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+14:33:58 :lightning.on.ca.synirc.net 005 robophiz STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+14:33:58 :lightning.on.ca.synirc.net 251 robophiz :There are 25 users and 1832 invisible on 15 servers
+14:33:58 :lightning.on.ca.synirc.net 252 robophiz 20 :operator(s) online
+14:33:58 :lightning.on.ca.synirc.net 253 robophiz 1 :unknown connection(s)
+14:33:58 :lightning.on.ca.synirc.net 254 robophiz 965 :channels formed
+14:33:58 :lightning.on.ca.synirc.net 255 robophiz :I have 319 clients and 0 servers
+14:33:58 :lightning.on.ca.synirc.net 265 robophiz 319 1253 :Current local users 319, max 1253
+14:33:58 :lightning.on.ca.synirc.net 266 robophiz 1857 8248 :Current global users 1857, max 8248
+14:33:58 :lightning.on.ca.synirc.net 375 robophiz :- lightning.on.ca.synirc.net Message of the Day - 
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- 27/7/2017 3:05
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                                    ooooo ooooooooo.     .oooooo.   
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                                    `888' `888   `Y88.  d8P'  `Y8b  
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-    .oooo.o oooo    ooo ooo. .oo.    888   888   .d88' 888          
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-   d88(  "8  `88.  .8'  `888P"Y88b   888   888ooo88P'  888          
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-   `"Y88b.    `88..8'    888   888   888   888`88b.    888          
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-   o.  )88b    `888'     888   888   888   888  `88b.  `88b    ooo  
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-   8""888P'     .8'     o888o o888o o888o o888o  o888o  `Y8bood8P'  
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-            .o..P'                                                  
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-            `Y8P'                                                   
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                                                            .
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                                                            |
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                                                           < >
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                                                            |
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                                                          (^ ^)
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                                                           `|`
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                                ______                      |
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                      .-,__,-. |""""""|                     |
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                      | ]""[ | |""""""|       ,.,__         |
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                      | |""| | |""""""|     /`.     ` ;     |
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                      | |""| | |""""""|   /`.  '.       ;   |
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-                      | |""| | |""""""| /`.  '.  .       ; /^\
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-  ----------------------'-'--'-'-'------''---'---'--'-------'---'----
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- 
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-  lightning.on.ca.synirc.net (ports: 6660-9, 7000, ssl: +6697, +7001)
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-   
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-     admin: slushey <slushey@synirc.net>
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-   coadmin: basket <basket@synirc.net>
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-     ircop: Lioness <lioness@synirc.net>
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-            minusX <minusx@synirc.net>
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- 
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-       url: http://www.synirc.net
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-    forums: http://forum.synirc.net
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-   support: #help
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- 
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :-  -------------------------------------------------------------------
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- 
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- synIRC.net will scan your IP for open proxies upon connection to our
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- services. You must be 18 or older to connect and chat on our services, or
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- have parental consent. synIRC.net and its affiliates are not responsible
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- for any bodily or mental harm that could possibly come from using its
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- services. synIRC.net is not responsible for any data received or sent
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- out to our clients. By connecting, you consent to have logging of your
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- conversations done by other clients and are also bound to the rules and
+14:33:58 :lightning.on.ca.synirc.net 372 robophiz :- regulations that can be found at http://www.synirc.net/charter/ 
+14:33:58 :lightning.on.ca.synirc.net 376 robophiz :End of /MOTD command.
+14:33:59 :lightning.on.ca.synirc.net 332 robophiz #phiz :elden ring group/mp pw: eldphiz || According to evidence admitted at the board of rights hearing, "Snorlax" is a Pokémon creature known as "The Sleeping Pokémon." || Black lives matter. Pooplunch stands in solidarity with the Black community.
+14:33:59 :lightning.on.ca.synirc.net 333 robophiz #phiz shrimp1989dspinfo 1645985449
+14:33:59 :lightning.on.ca.synirc.net 353 robophiz @ #phiz :robophiz Nude_Riker NORG registered_mirc ajj ajj2 the`shima William_Hootkins Melber bonegar alansmithee_ dreddybajs greatest_gamer Homie_in_a_geod coaxmetal pubeman77 scoop_jackson eric shrimp1989dspinfo kuf ~het djcozmik 
+14:33:59 :lightning.on.ca.synirc.net 366 robophiz #phiz :End of /NAMES list.
